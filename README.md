@@ -11,3 +11,9 @@ DecredMagazine.com is a content hub for the Decred project Aims include:
 * Consistent user experience
 * Automated social media campaigns
 * A home for Decred content creators
+
+Follow the project:
+
+Decred Magazine - https://www.decredmagazine.com
+Decred Magazine Twitter - https://twitter.com/decredmagazine/
+Decred Society Twitter - https://twitter.com/decredsociety
