@@ -1,9 +1,9 @@
 @: Decred Magazine Proposal
 
-Domain: Marketing
-Amount: $34,000
-Start Date: 01 July 2022
-End Date: 30 June 2023
+* Domain: Marketing
+* Amount: $34,000
+* Start Date: 01 July 2022
+* End Date: 30 June 2023
 
 ## What
 This proposal seeks funding for a content hub called DecredMagazine.com. The aim is to syndicate Decred media from a single outlet.
