@@ -73,7 +73,7 @@ As this proposal progresses, the hope is to add additional Contributors and at l
 ## When
 The aim is to deliver regular content, two to four pieces a week, for one year. The expected content will be from a range of areas, including but not limited to:
 * Decred news pieces
-* Economic and current event pieces that reflect back to Decred
+* Economic and current event pieces that highlight Decred’s strengths
 * Decred markets, data and broader market technical analysis
 * Decred development articles
 
