@@ -71,7 +71,11 @@ As this proposal progresses, the hope is to add additional Contributors and at l
 * NOTE: video creators will be directed to participate in the – Decred Video Proposal
 
 ## When
-The aim is to deliver regular content, two to four pieces a week, for one year.
+The aim is to deliver regular content, two to four pieces a week, for one year. The expected content will be from a range of areas, including but not limited to:
+* Decred news pieces
+* Economic and current event pieces that reflect back to Decred
+* Decred markets, data and broader market technical analysis
+* Decred development articles
 
 ## Budget
 The monthly budget for this proposal will be payable in Decred via the Contractor Management System.
