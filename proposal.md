@@ -49,14 +49,14 @@ Once the content has been published, each piece can have a marketing campaign as
 	* 1 Year – 24 unique scheduled posts
 
 ## Who
-Decred Society (Phoenixgreen) has been delivering Decred content for the past two years, with the purpose of education and understanding. He also contributes to the Decred Video Proposal.
+PhoenixGreen (aka. Decred Society) has been delivering Decred content for the past two years, with the purpose of education and understanding. He also contributes to the Decred Video Proposal.
 
 Applesaucesome – Who is well known in the Decred community for delivering charts and technical analyse for Decred, Bitcoin and the wider market.
 
 OfficialCryptos - Who is well known in the Decred community for his Photorealistic art form with promotional social media commentary.
 
 ## Role
-Decred Society – Editor / Official Contributor. Will manage, coordinate and publish content from across the community. As well as produce original and curated content.
+PhoenixGreen – Editor / Official Contributor. Will manage, coordinate and publish content from across the community. As well as produce original and curated content.
 
 Applesaucesome – Official Contributor. Will deliver regular posts for Decred markets, broader market technical analysis and Decred tutorials. 
 
