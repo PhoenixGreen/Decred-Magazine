@@ -68,7 +68,7 @@ As this proposal progresses, the hope is to add additional Contributors and at l
 * Economics and current affairs
 * Accounting and tax
 * On-chain Analysis
-NOTE: video creators will be directed to participate in the – Decred Video Proposal
+* NOTE: video creators will be directed to participate in the – Decred Video Proposal
 
 ## When
 The aim is to deliver regular content, two to four pieces a week, for one year.
