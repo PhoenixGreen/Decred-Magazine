@@ -80,7 +80,7 @@ All Admin / platform management work, for this proposal, will be included in the
 
 ## The breakdown of costs:
 
-* Standard Decred contractor rate of $30 an hour 
+* Standard Decred contractor rate of $30 per hour 
 * The Editor role will be capped at – 10 hours per week
 * Official contributors will be capped at – 4 hours for medium length content and 8 hours for long length content. All contributor content will include promotional copy / excerpt, featured image and in-post images.
 
