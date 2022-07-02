@@ -8,7 +8,8 @@ July 1st - July 7th:
 * Apr 23, 2017 - Content Import - Decred Assembly - Ep2 - https://www.decredmagazine.com/decred-assembly-ep2-decred-roadmap-2017-w-guest-jake-yocom-piatt/
 * Apr 30, 2017 - Content Import - Decred Assembly - Ep3 - https://www.decredmagazine.com/decred-assembly-ep3-decred-marketing-plan-w-guest-gautam-desai/
 * May 28, 2017 - Content Import - Decred Assembly - Ep4 - https://www.decredmagazine.com/decred-assembly-ep4-the-lightning-network-w-guest-laolu-roasbeef-osuntokun/
-* 
+* Jun 4, 2017 - Content Import - Decred Assembly - Ep5 - https://www.decredmagazine.com/decred-assembly-ep5-btcd-uasf-bip148-bip149-and-more/
+* Jun 11, 2017 - Content Import - Decred Assembly - Ep6 - https://www.decredmagazine.com/decred-assembly-ep6-inside-the-box-w-guest-boxmining/
 
 * July 3rd - Edits - two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
 * 
