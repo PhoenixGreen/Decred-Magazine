@@ -12,7 +12,7 @@ July 1st - July 7th:
 * Jun 11, 2017 - Content Import - Decred Assembly - Ep6 - https://www.decredmagazine.com/decred-assembly-ep6-inside-the-box-w-guest-boxmining/
 * Jun 25, 2017 - Content Import - Decred Assembly - Ep7 - https://www.decredmagazine.com/decred-assembly-ep7-dcr-exodus-wallet-w-guest-daniel-castagnoli/
 * Jun 30, 2017 - Content Import - Decred Assembly - Ep8 - https://www.decredmagazine.com/decred-assembly-ep8-monero-privacy-w-guest-riccardo-fluffypony-spagni/
-* Jul 10, 2017 - Content Import - Decred Assembly - Ep8 - https://www.decredmagazine.com/decred-assembly-ep9-litecoin-decred-and-more-w-charlie-lee/
+* Jul 10, 2017 - Content Import - Decred Assembly - Ep9 - https://www.decredmagazine.com/decred-assembly-ep9-litecoin-decred-and-more-w-charlie-lee/
 * 
 
 * July 3rd - Edits - two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
