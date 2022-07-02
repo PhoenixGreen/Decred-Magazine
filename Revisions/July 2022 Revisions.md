@@ -13,7 +13,9 @@ Work Completed: July 1st - July 7th:
 * Jun 25, 2017 - Content Import - Decred Assembly - Ep7 - https://www.decredmagazine.com/decred-assembly-ep7-dcr-exodus-wallet-w-guest-daniel-castagnoli/
 * Jun 30, 2017 - Content Import - Decred Assembly - Ep8 - https://www.decredmagazine.com/decred-assembly-ep8-monero-privacy-w-guest-riccardo-fluffypony-spagni/
 * Jul 10, 2017 - Content Import - Decred Assembly - Ep9 - https://www.decredmagazine.com/decred-assembly-ep9-litecoin-decred-and-more-w-charlie-lee/
-* 
+* Jul 18, 2017 - Content Import - Decred Assembly - Ep10 - https://www.decredmagazine.com/decred-assembly-ep10-openbazaar-2-0-w-brian-hoffman-and-dr-washington-sanchez/
+* Aug 9, 2017 - Content Import - Decred Assembly - Ep11 - https://www.decredmagazine.com/decred-assembly-ep11-voting-and-proposal-systems-w-marco-peereboom/
+* Aug 23, 2017 - Content Import - Decred Assembly - Ep12 - https://www.decredmagazine.com/decred-assembly-ep12-decred-contractors-and-future-proposal-system-with-jake-yocom-piatt/
 
 * July 3rd - Edits - two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
 * 
