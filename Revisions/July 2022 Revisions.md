@@ -9,8 +9,8 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Social Media Campains - 
 * Twitter Engagement - 
 
-# Phoenix Green
-##Work Completed: July 1st - 7th 2022:
+
+# Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 
 * July 02, 2022 - New Section - Decred Assembly - https://www.decredmagazine.com/tag/decred-assembly/
 * July 02, 2022 - New Page Headers - Updated the five main menu pages with animated .gif header images to improve visual consistancy
@@ -29,9 +29,15 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Aug 23, 2017 - Content Import - Decred Assembly - Ep12 - https://www.decredmagazine.com/decred-assembly-ep12-decred-contractors-and-future-proposal-system-with-jake-yocom-piatt/
 
 * July 3rd - Edits - two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
-## Work Completed July 8th - 14th 2022:
 
-# OfficialCryptos
+# Phoenix Green - Official Contributor Work:
+*
+
+# Applesaucesome - Official Contributor Work:
+* 
+
+# OfficialCryptos - Official Contributor Work:
+* 
 
 
-# Applesaucesome
+
