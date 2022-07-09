@@ -4,6 +4,7 @@ Work completed during this period, including, New posts, edits, post imports, me
 # July 2022 States:
 * Newsletter Subscribers - 44
 * Newsletters Sent - 
+* Average newsletter opens - %
 * Decred Magazine Twitter Subscribers -
 * Social Media Campains - 
 * Twitter Engagement - 
