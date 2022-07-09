@@ -1,8 +1,15 @@
 # July 2022 Revisions
 Work completed during this period, including, New posts, edits, post imports, media imports.
 
-## Phoenix Green
-Work Completed: July 1st - July 7th:
+# July 2022 States:
+* Newsletter Subscribers - 44
+* Newsletters Sent - 
+* Decred Magazine Twitter Subscribers -
+* Social Media Campains - 
+* Twitter Engagement - 
+
+# Phoenix Green
+##Work Completed: July 1st - 7th 2022:
 
 * July 02, 2022 - New Section - Decred Assembly - https://www.decredmagazine.com/tag/decred-assembly/
 * July 02, 2022 - New Page Headers - Updated the five main menu pages with animated .gif header images to improve visual consistancy
@@ -21,9 +28,9 @@ Work Completed: July 1st - July 7th:
 * Aug 23, 2017 - Content Import - Decred Assembly - Ep12 - https://www.decredmagazine.com/decred-assembly-ep12-decred-contractors-and-future-proposal-system-with-jake-yocom-piatt/
 
 * July 3rd - Edits - two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
-* 
+## Work Completed July 8th - 14th 2022:
 
-## OfficialCryptos
+# OfficialCryptos
 
 
-## Applesaucesome
+# Applesaucesome
