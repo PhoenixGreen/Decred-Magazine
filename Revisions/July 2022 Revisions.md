@@ -1,7 +1,7 @@
 # July 2022 Revisions
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
-# July 2022 States:
+# Engagement Stats:
 * Newsletter Subscribers - 44
 * Newsletters Sent - 
 * Average newsletter opens - %
@@ -11,7 +11,7 @@ Work completed during this period, including, New posts, edits, post imports, me
 
 
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
-
+* Content date - Content type - Author - Link
 * July 02, 2022 - New Section - Decred Assembly - https://www.decredmagazine.com/tag/decred-assembly/
 * July 02, 2022 - New Page Headers - Updated the five main menu pages with animated .gif header images to improve visual consistancy
 
@@ -31,12 +31,15 @@ Work completed during this period, including, New posts, edits, post imports, me
 * July 3rd - Edits - two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
 
 # Phoenix Green - Official Contributor Work:
-*
+* Content date - Content Title - Link
+* 
 
 # Applesaucesome - Official Contributor Work:
+* Content date - Content Title - Link
 * 
 
 # OfficialCryptos - Official Contributor Work:
+* Content date - Content Title - Link
 * 
 
 
