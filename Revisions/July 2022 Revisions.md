@@ -27,6 +27,10 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Jul 18, 2017 - Content Import - Decred Assembly - Ep10 - https://www.decredmagazine.com/decred-assembly-ep10-openbazaar-2-0-w-brian-hoffman-and-dr-washington-sanchez/
 * Aug 9, 2017 - Content Import - Decred Assembly - Ep11 - https://www.decredmagazine.com/decred-assembly-ep11-voting-and-proposal-systems-w-marco-peereboom/
 * Aug 23, 2017 - Content Import - Decred Assembly - Ep12 - https://www.decredmagazine.com/decred-assembly-ep12-decred-contractors-and-future-proposal-system-with-jake-yocom-piatt/
+* Sep 26, 2017 - Content Import - Decred Assembly - Ep13 - https://www.decredmagazine.com/decred-assembly-ep13-on-chain-atomic-swaps-lightning-network-w-dave-collins-and-charlie-lee/
+* Sep 27, 2017 - Content Import - Decred Assembly - Ep14 - https://www.decredmagazine.com/decred-assembly-ep14-crypto-estate-planning-and-daos-w-pamela-morgan/
+* Oct 25, 2017 - Content Import - Decred Assembly - Ep15 - https://www.decredmagazine.com/decred-assembly-ep15-decred-and-asics/
+* Nov 21, 2017 - Content Import - Decred Assembly - Ep16 - https://www.decredmagazine.com/decred-assembly-ep16-decred-and-asics-part-ii/
 
 * July 3rd - Edits - two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
 
