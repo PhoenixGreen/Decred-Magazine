@@ -33,6 +33,7 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Nov 21, 2017 - Content Import - Decred Assembly - Ep16 - https://www.decredmagazine.com/decred-assembly-ep16-decred-and-asics-part-ii/
 
 * July 3rd - Edits - two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
+* July 10th - Import video for post and upload to create podcast - https://www.decredmagazine.com/decred-news-update-first-dao-payout-w-new-rules/
 
 # Phoenix Green - Official Contributor Work:
 * Content date - Content Title - Link
