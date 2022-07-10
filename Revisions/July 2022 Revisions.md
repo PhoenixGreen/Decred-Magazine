@@ -37,7 +37,7 @@ Work completed during this period, including, New posts, edits, post imports, me
 
 # Phoenix Green - Official Contributor Work:
 * Content date - Content Title - Link
-* 
+* July 10th - Introducing Decred Developer @dreacot - https://www.decredmagazine.com/introducing-decred-developer-dreacot/
 
 # Applesaucesome - Official Contributor Work:
 * Content date - Content Title - Link
