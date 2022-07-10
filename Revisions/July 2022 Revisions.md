@@ -14,7 +14,9 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Content date - Content type - Author - Link
 * July 02, 2022 - New Section - Decred Assembly - https://www.decredmagazine.com/tag/decred-assembly/
 * July 02, 2022 - New Page Headers - Updated the five main menu pages with animated .gif header images to improve visual consistancy
+* July 10th, 2022 - New Section - Decred Developers - https://www.decredmagazine.com/tag/decred-developers/
 
+---
 * Apr 16, 2017 - Content Import - Decred Assembly - Ep1 - https://www.decredmagazine.com/decred-assembly-ep1-intro-to-decred-w-guest-dave-collins/
 * Apr 23, 2017 - Content Import - Decred Assembly - Ep2 - https://www.decredmagazine.com/decred-assembly-ep2-decred-roadmap-2017-w-guest-jake-yocom-piatt/
 * Apr 30, 2017 - Content Import - Decred Assembly - Ep3 - https://www.decredmagazine.com/decred-assembly-ep3-decred-marketing-plan-w-guest-gautam-desai/
@@ -31,6 +33,8 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Sep 27, 2017 - Content Import - Decred Assembly - Ep14 - https://www.decredmagazine.com/decred-assembly-ep14-crypto-estate-planning-and-daos-w-pamela-morgan/
 * Oct 25, 2017 - Content Import - Decred Assembly - Ep15 - https://www.decredmagazine.com/decred-assembly-ep15-decred-and-asics/
 * Nov 21, 2017 - Content Import - Decred Assembly - Ep16 - https://www.decredmagazine.com/decred-assembly-ep16-decred-and-asics-part-ii/
+
+---
 
 * July 3rd - Edits - two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
 * July 10th - Import video for post and upload to create podcast - https://www.decredmagazine.com/decred-news-update-first-dao-payout-w-new-rules/
