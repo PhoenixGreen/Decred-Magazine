@@ -21,6 +21,8 @@ This section is for reference only, to identify the workload of the editor role 
 * Feature image, excerpts for imported content – Max billable 1hr per post 
 
 ## Social Media Campaigns – Structure: Post Title – Campaign Type – Start Date – End Date
+* DCRDATA Comparing on-chain Data - 12 month evergreen - Jul 4 2022 - Jul 4 2023
+* DCRDEX Name Discussion - 2 week blast - Jul 9 2022 - Jul 23 2022
 
 ## Site Admin
 * July 02, 2022 - New Section - Decred Assembly - https://www.decredmagazine.com/tag/decred-assembly/
