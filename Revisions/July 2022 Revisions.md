@@ -15,19 +15,20 @@ Work completed during this period, including, New posts, edits, post imports, me
 Billing Breakdown for Editor Role (max billable 10hrs per week).
 This section is for reference only, to identify the workload of the editor role and to verify the average times spent doing a typical task.
 * Social Media campaign – Max billable 1hr per campaign
+* Site Admin including backups – Max Billable 2hrs per week
 * Importing a post – Max Billable 1hr per post
 * Proofreading, edits and approval for new posts – Max Billable 1hr per post
 * Feature image, excerpts for imported content – Max billable 1hr per post 
-* Site Admin including backups – Max Billable 2hrs per week
 
 ## Social Media Campaigns – Structure: Post Title – Campaign Type – Start Date – End Date
 
-## Import content and New Posts. Content Reporting Structure: Content date - Content type - Author - Link
+## Site Admin
 * July 02, 2022 - New Section - Decred Assembly - https://www.decredmagazine.com/tag/decred-assembly/
 * July 02, 2022 - New Page Headers - Updated the five main menu pages with animated .gif header images to improve visual consistancy
 * July 10th, 2022 - New Section - Decred Developers - https://www.decredmagazine.com/tag/decred-developers/
 
 ---
+## Import content and New Posts. Content Reporting Structure: Content date - Content type - Author - Link
 * Apr 16, 2017 - Content Import - Decred Assembly - Ep1 - https://www.decredmagazine.com/decred-assembly-ep1-intro-to-decred-w-guest-dave-collins/
 * Apr 23, 2017 - Content Import - Decred Assembly - Ep2 - https://www.decredmagazine.com/decred-assembly-ep2-decred-roadmap-2017-w-guest-jake-yocom-piatt/
 * Apr 30, 2017 - Content Import - Decred Assembly - Ep3 - https://www.decredmagazine.com/decred-assembly-ep3-decred-marketing-plan-w-guest-gautam-desai/
@@ -47,16 +48,20 @@ This section is for reference only, to identify the workload of the editor role 
 
 ---
 
-* July 3rd - Edits - two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
-* July 10th - Import video for post and upload to create podcast - https://www.decredmagazine.com/decred-news-update-first-dao-payout-w-new-rules/
+* July 3rd - Edits - Two Tiered Economy - https://www.decredmagazine.com/two-tiered-economy-decred-and-the-state-of-the-market/
+* July 10th - Content Import - Decred News Update - https://www.decredmagazine.com/decred-news-update-first-dao-payout-w-new-rules/
+* July 15th - Content Import - Decred Journal – June 2022 - https://www.decredmagazine.com/decred-journal-june-2022/
+
+
 
 # Phoenix Green - Official Contributor Work:
 * Content date - Content Title - Link
-* July 10th - Introducing Decred Developer @dreacot - https://www.decredmagazine.com/introducing-decred-developer-dreacot/
+* July 10th - Introducing Decred Developer @dreacot - https://www.decredmagazine.com/introducing-decred-developer-dreacot/ - Medium Format
+* July 20th - Introducing Decred Developer @_victorguedes - https://www.decredmagazine.com/introducing-decred-developer-victorguedes/ - Medium Format
 
 # Applesaucesome - Official Contributor Work:
 * Content date - Content Title - Link
-* 
+* July 12th - Magic 8 ball, is this the bottom? - https://www.decredmagazine.com/magic-8-ball-is-this-the-bottom/ - Medium Format
 
 # OfficialCryptos - Official Contributor Work:
 * Content date - Content Title - Link
