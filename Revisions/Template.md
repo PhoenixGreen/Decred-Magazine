@@ -23,19 +23,21 @@ This section is for reference only, to identify the workload of the editor role 
 ## Social Media Campaigns – Structure: Post Title – Campaign Type – Start Date – End Date
 * 
 
-## Import content and New Posts. Content Reporting Structure: Content date - Content type - Author - Link
+## Site Admin
+* 
 
-* Content date - Content type - Author - Link
+## Import content and New Posts. Content Reporting Structure: Content date - Content type - Author - Link
+* Content date - Content type - Title - Link
 * 
 
 # Phoenix Green - Official Contributor Work:
-* Content date - Content Title - Link
+* Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
 # Applesaucesome - Official Contributor Work:
-* Content date - Content Title - Link
+* Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
 # OfficialCryptos - Official Contributor Work:
-* Content date - Content Title - Link
+* Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
