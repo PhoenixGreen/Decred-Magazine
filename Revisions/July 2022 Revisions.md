@@ -21,6 +21,7 @@ This section is for reference only, to identify the workload of the editor role 
 * Feature image, excerpts for imported content – Max billable 1hr per post 
 
 ## Social Media Campaigns – Structure: Post Title – Campaign Type – Start Date – End Date
+* Two-tiered Economy - Decred and the state of the market - Live stream (7 day lead up) - June 27, 2022 - July 3, 2022
 * DCRDATA Comparing on-chain Data - 12 month evergreen - Jul 4 2022 - Jul 4 2023
 * DCRDEX Name Discussion - 2 week blast - Jul 9 2022 - Jul 23 2022
 
