@@ -27,17 +27,17 @@ This section is for reference only, to identify the workload of the editor role 
 * 
 
 ## Import content and New Posts. Content Reporting Structure: Content date - Content type - Author - Link
-* Content date - Content type - Title - Link
+Reporting structure: Content date - Content type - Title - Link
 * 
 
 # Phoenix Green - Official Contributor Work:
-* Content date - Content Title - Link - Billing Type (Medium or Long)
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
 # Applesaucesome - Official Contributor Work:
-* Content date - Content Title - Link - Billing Type (Medium or Long)
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
 # OfficialCryptos - Official Contributor Work:
-* Content date - Content Title - Link - Billing Type (Medium or Long)
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
