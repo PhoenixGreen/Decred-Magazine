@@ -21,6 +21,7 @@ This section is mainly for reference to identify the workload of the editor role
 * Site Admin including backups – Max Billable 2hrs per week
 
 ## Social Media Campaigns – Structure: Post Title – Campaign Type – Start Date – End Date
+* 
 
 ## Import content and New Posts. Content Reporting Structure: Content date - Content type - Author - Link
 
