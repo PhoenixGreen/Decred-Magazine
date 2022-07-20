@@ -24,6 +24,7 @@ This section is for reference only, to identify the workload of the editor role 
 * Two-tiered Economy - Decred and the state of the market - Live stream (7 day lead up) - June 27, 2022 - July 3, 2022
 * DCRDATA Comparing on-chain Data - 12 month evergreen - Jul 4 2022 - Jul 4 2023
 * DCRDEX Name Discussion - 2 week blast - Jul 9 2022 - Jul 23 2022
+* Decred Journal – June 2022 - 2 week blast - Jul 20 - Aug 3 2022
 
 ## Site Admin
 * July 02, 2022 - New Section - Decred Assembly - https://www.decredmagazine.com/tag/decred-assembly/
