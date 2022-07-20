@@ -57,16 +57,16 @@ This section is for reference only, to identify the workload of the editor role 
 
 
 # Phoenix Green - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * July 10th - Introducing Decred Developer @dreacot - https://www.decredmagazine.com/introducing-decred-developer-dreacot/ - Medium Format
 * July 20th - Introducing Decred Developer @_victorguedes - https://www.decredmagazine.com/introducing-decred-developer-victorguedes/ - Medium Format
 
 # Applesaucesome - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * July 12th - Magic 8 ball, is this the bottom? - https://www.decredmagazine.com/magic-8-ball-is-this-the-bottom/ - Medium Format
 
 # OfficialCryptos - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
 
