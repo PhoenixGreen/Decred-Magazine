@@ -12,8 +12,8 @@ Work completed during this period, including, New posts, edits, post imports, me
 
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 
-Billing Breakdown for Editor Role (max billable 10hrs per week:
-This section is mainly for reference to identify the workload of the editor role and to verify the average times spend doing a typical task.
+Billing Breakdown for Editor Role (max billable 10hrs per week).
+This section is for reference only, to identify the workload of the editor role and to verify the average times spent doing a typical task.
 * Social Media campaign – Max billable 1hr per campaign
 * Importing a post – Max Billable 1hr per post
 * Proofreading, edits and approval for new posts – Max Billable 1hr per post
