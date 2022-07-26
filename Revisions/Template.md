@@ -8,6 +8,7 @@ Billing Breakdown for Editor Role (max billable 10hrs per week).
 This section is for reference only, to identify the workload of the editor role and approximate time each task takes.
 * Social Media campaign – approx 1hr per campaign
 * Site Admin including backups – approx 2hrs per week
+* Communications - approx 2hrs per week
 * Importing a post – approx 30mins - 1hr per post
 * Proofreading, edits and approval for new posts – approx 1hr per post
 * Feature image, excerpts for imported content – approx 30mins - 1hr per post 
