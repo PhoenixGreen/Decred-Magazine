@@ -1,4 +1,4 @@
-# July 2022 Revisions
+# August 2022 Revisions
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 
