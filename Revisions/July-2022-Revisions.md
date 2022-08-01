@@ -61,7 +61,7 @@ This section is for reference only, to identify the workload of the editor role 
 * July 10th - Content Import - Decred News Update - https://www.decredmagazine.com/decred-news-update-first-dao-payout-w-new-rules/
 * July 15th - Content Import - Decred Journal – June 2022 - https://www.decredmagazine.com/decred-journal-june-2022/
 * Jul 25, 2022 - Proof read, edit and images - Sound Money that Iterates and Evolves - https://www.decredmagazine.com/decred-iterates-where-bitcoin-is-weak-broken/
-* 
+* Jul 31, 2022 - Content Import - DCRDATA The Details that define the project - https://www.decredmagazine.com/dcrdata-the-details-that-define-the-project/
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
