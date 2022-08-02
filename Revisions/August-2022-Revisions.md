@@ -21,7 +21,7 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Import content and New Posts. Content Reporting Structure: Content date - Content type - Author - Link
 Reporting structure: Content date - Content type - Title - Link
-* 
+* Aug 7, 2022 - Import - Decred and the future of web3 - State of the market - https://www.decredmagazine.com/decred-and-the-future-of-web3-state-of-the-market/
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
@@ -34,3 +34,7 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 # OfficialCryptos - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
+
+# Tivra - Official Contributor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Aug 1, 2022 - Peer-to-Peer Electronic Corporation - https://www.decredmagazine.com/peer-to-peer-electronic-corporation/ - Long Format
