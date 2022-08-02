@@ -34,3 +34,7 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 # OfficialCryptos - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
+
+# Tivra - Official Contributor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
