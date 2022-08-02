@@ -71,7 +71,8 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 
 # Applesaucesome - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* July 12th - Magic 8 ball, is this the bottom? - https://www.decredmagazine.com/magic-8-ball-is-this-the-bottom/ - Medium Format
+* July 12th, 2022 - Magic 8 ball, is this the bottom? - https://www.decredmagazine.com/magic-8-ball-is-this-the-bottom/ - Medium Format
+* July 31st, 2022 - Indecision, doubt, and a monthly dose of hopium - https://www.decredmagazine.com/indecision-doubt-and-a-monthly-dose-of-hopium/ - Medium Format
 * 
 
 # OfficialCryptos - Official Contributor Work:
