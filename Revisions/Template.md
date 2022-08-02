@@ -18,6 +18,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * 
 
 ## Site Admin
+Reporting Structure: Completion Date - Work undertaken - Link or detailed dscription
 * 
 
 ## Import content and New Posts
