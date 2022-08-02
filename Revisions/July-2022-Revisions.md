@@ -62,6 +62,7 @@ This section is for reference only, to identify the workload of the editor role 
 * July 15th - Content Import - Decred Journal – June 2022 - https://www.decredmagazine.com/decred-journal-june-2022/
 * Jul 25, 2022 - Proof read, edit and images - Sound Money that Iterates and Evolves - https://www.decredmagazine.com/decred-iterates-where-bitcoin-is-weak-broken/
 * Jul 31, 2022 - Content Import - DCRDATA The Details that define the project - https://www.decredmagazine.com/dcrdata-the-details-that-define-the-project/
+*
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
@@ -79,8 +80,4 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * Jul 24, 2022 - Decred stairs to evolve and adapt - https://www.decredmagazine.com/decred-stairs-to-evolve-and-adapt/ - Medium Format
 * 
-
-# Ronnie Amato - Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* Jul 25, 2022 - Sound Money that Iterates and Evolves - https://www.decredmagazine.com/decred-iterates-where-bitcoin-is-weak-broken/ - Long Format
 
