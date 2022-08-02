@@ -13,7 +13,8 @@ This section is for reference only, to identify the workload of the editor role 
 * Proofreading, edits and approval for new posts – approx 1hr per post
 * Feature image, excerpts for imported content – approx 30mins - 1hr per post 
 
-## Social Media Campaigns – Structure: Post Title – Campaign Type – Start Date – End Date
+## Social Media Campaigns 
+Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * 
 
 ## Site Admin
