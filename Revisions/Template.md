@@ -19,7 +19,7 @@ This section is for reference only, to identify the workload of the editor role 
 ## Site Admin
 * 
 
-## Import content and New Posts. Content Reporting Structure: Content date - Content type - Author - Link
+## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
 * 
 
