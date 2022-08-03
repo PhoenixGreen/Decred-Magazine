@@ -1,0 +1,26 @@
+## How to install Ghost Locally and rebuild Decred Magazine
+Install new build inan empty folder - https://ghost.org/docs/install/local/
+
+## Required Foldered after building a local version:
+
+* Content Folder - Has all the images and documents for individual posts and pages
+* decred-magazine....json file - Needs to be imported in the settings area to populate all of the posts
+
+* Ghost theme "Headlines" - Needs to be activated in the theme settings area
+
+
+After building, I've noticed that some of the design elements in the header and footer need resetting up, 
+but if you have any issues give me a shout and I can point you in the right direction
+
+
+
+---
+SIDENOTE: I will periodiclly update the json file and the content folder with all the new posts but this will 
+likelly mess up any substantiall post editing you may have done e.g. translated posts. Before importing the new 
+json file export the old one just incase.
+
+The content folder should be fine unless you replace the old folder with the new one. In which case you would likely
+lose any edits or content you've added.
+
+This backup is predominantly meant to the longevity of the Decred Magazine project but I have no issues with anyone 
+using the build for their own ideas and implementations
