@@ -17,6 +17,8 @@ This section is for reference only, to identify the workload of the editor role 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred and the future of web3 - State of the market - Live stream (7 day lead up) - Aug 1st - Aug 7th 2022
 * Peer-to-Peer Electronic Corporation - 12 month evergreen - Aug 11 2022 - Aug 11 2023
+* Introducing Decred Developer Philemon - 2 week blast - Aug 13 - Aug 27 2022
+* 
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed dscription
