@@ -29,7 +29,7 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed dscrip
 
 ## Import content and New Posts. Content Reporting Structure: Content date - Content type - Author - Link
 Reporting structure: Content date - Content type - Title - Link
-* * Aug 6, 2022 - Import - How Decred contributed to a more transparent election in Brazil - https://www.decredmagazine.com/how-decred-how-decred-contributed-to-a-more-transparent-election-in-brazil/
+* Aug 6, 2022 - Import - How Decred contributed to a more transparent election in Brazil - https://www.decredmagazine.com/how-decred-how-decred-contributed-to-a-more-transparent-election-in-brazil/
 * Aug 6, 2022 - Import - Decred News Update August 2022 - https://www.decredmagazine.com/decred-news-update/
 * Aug 7, 2022 - Import - Decred and the future of web3 - State of the market - https://www.decredmagazine.com/decred-and-the-future-of-web3-state-of-the-market/
 * 
