@@ -1,6 +1,16 @@
 # ?MONTH? 2022 Revisions
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
+# Engageement Stats for this month:
+* Number of posts -  297
+* Newsletters subscribers - 50
+* Active Social media campaigns - 6
+* Social media posts - 48
+* Post clicks - 309
+* Likes - 375
+* Re-tweets - 56
+* Social media followers across all platforms and accounts - 887
+
 
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 
