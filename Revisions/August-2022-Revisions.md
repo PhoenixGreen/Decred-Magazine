@@ -28,19 +28,22 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed dscrip
 * Aug 6th - Added new contributor page, Joao Paulo Sant'Anna da Silva - https://www.decredmagazine.com/author/joao/
 * Aug 9th - Added new section, Decred Brazil - https://www.decredmagazine.com/tag/decred-brazil/
 * Aug 10th - Changed and updated the "Decred Developer" section to "Decred Community - https://www.decredmagazine.com/tag/decred-community/
-* 
+* Aug 12th - Started discussing Decred Magazine home page improvements with Developer VictorGuede. On going, currently putting together some designs that I aim to share with the community once complete.
+* Aug 15th - Added new section, Decred PR - https://www.decredmagazine.com/tag/decredpr/
 
 ## Import content and New Posts. Content Reporting Structure: Content date - Content type - Author - Link
 Reporting structure: Content date - Content type - Title - Link
 * Aug 6, 2022 - Import - How Decred contributed to a more transparent election in Brazil - https://www.decredmagazine.com/how-decred-how-decred-contributed-to-a-more-transparent-election-in-brazil/
 * Aug 6, 2022 - Import - Decred News Update August 2022 - https://www.decredmagazine.com/decred-news-update/
 * Aug 7, 2022 - Import - Decred and the future of web3 - State of the market - https://www.decredmagazine.com/decred-and-the-future-of-web3-state-of-the-market/
-* 
+* Aug 17, 2022 - Import - Politeia Digest #53 - June 28 - August 16 2022 - https://www.decredmagazine.com/politeia-digest-53/
+* Aug 17, 2022 - Import - Decred Journal – July 2022 - https://www.decredmagazine.com/decred-journal-july-2022/
 
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * Aug 11, 2022 - Introducing Decred Developer Philemon - https://www.decredmagazine.com/introducing-decred-developer-philemon/ - Medium Format
+* Aug 16, 2022 - Monde PR Report for July 2022 - https://www.decredmagazine.com/mondepr-report-for-july-2022/
 
 # Applesaucesome - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
@@ -48,8 +51,10 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 
 # OfficialCryptos - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Aug 19, 2022 - Inflection points - https://www.decredmagazine.com/inflection-points/
 * 
 
 # Tivra - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * Aug 1, 2022 - Peer-to-Peer Electronic Corporation - https://www.decredmagazine.com/peer-to-peer-electronic-corporation/ - Long Format
+* 
