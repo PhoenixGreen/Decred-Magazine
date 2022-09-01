@@ -27,6 +27,7 @@ This section is for reference only, to identify the workload of the editor role 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred Round Table State of the market - Live stream (7 day lead up) - Sep 1 - Sep 10 2022
+* Decred Heartbeat - 12 month evergreen - Sep 10 2022 - Sep 10 2023
 * 
 
 ## Site Admin
@@ -36,6 +37,7 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed dscrip
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
 * Sep 4, 2022 Decred Roundtable State of the market - Import - https://www.decredmagazine.com/decred-round-table-state-of-the-market/
+* 
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
