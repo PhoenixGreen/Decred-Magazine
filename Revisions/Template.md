@@ -2,8 +2,9 @@
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Engagement Stats for this month:
-* Number of posts -  000
+* Number of social posts -  000
 * Newsletter subscribers - 00
+* New DM Posts and Newsletters sent - 00
 * Active Social media campaigns - 0
 * Social media posts - 00
 * Post clicks - 000
@@ -50,3 +51,21 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 # Tivra - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
+
+# João Paulo Sant’Anna - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# RONNIE AMATO - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# Shiraz Jagati - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# Wahid Pessarlay - SunContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+
