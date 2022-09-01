@@ -1,7 +1,7 @@
 # ?MONTH? 2022 Revisions
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
-# Engagement Stats for this month:
+# Decred Magazine Engagement Stats for this month:
 * Total number of articles on DM -  000
 * Newsletter subscribers - 00
 * New DM Posts and Newsletters sent - 00
