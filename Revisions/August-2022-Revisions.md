@@ -1,12 +1,12 @@
 # August 2022 Revisions
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
-# Engagement Stats for this month:
-* Number of posts -  305
+# Decred Magazine Engagement Stats for this month:
+* Total number of articles on DM -  305
 * Newsletter subscribers - 55
 * New Posts and Newsletters sent - 13
 * Active Social media campaigns - 5
-* Social media posts - 57
+* Social media posts - 75
 * Post clicks - 224
 * Likes - 412
 * Re-tweets - 73
