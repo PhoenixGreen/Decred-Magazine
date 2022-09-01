@@ -26,6 +26,7 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Decred Round Table State of the market - Live stream (7 day lead up) - Sep 1 - Sep 10 2022
 * 
 
 ## Site Admin
