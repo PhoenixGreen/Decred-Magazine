@@ -31,6 +31,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred Journal July 2022 - 2 week blast - Sep 2 - Sep 16 2022
 * Introducing Decred Community Member João Paulo Sant’Anna - 2 month blast - Sep 11 - Nov 10 2022
 * DCRDATA Decred's Treasury Data - 12 month evergreen - Sep 21 2022 - Sep 21 2023
+* Decentralised Treasury Spending Decred Fundamentals - 12 month evergreen - Sep 23 2022 - Sep 23 2023
 * 
 
 ## Site Admin
