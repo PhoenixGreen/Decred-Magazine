@@ -29,7 +29,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred Round Table State of the market - Live stream (7 day lead up) - Sep 1 - Sep 10 2022
 * Decred Heartbeat - 12 month evergreen - Sep 10 2022 - Sep 10 2023
 * Decred Journal July 2022 - 2 week blast - Sep 2 - Sep 16 2022
-* 
+* Introducing Decred Community Member João Paulo Sant’Anna - 2 month blast - Sep 11 - Nov 10 2022
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed dscription
