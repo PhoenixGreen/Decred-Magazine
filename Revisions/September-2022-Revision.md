@@ -35,7 +35,7 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed dscrip
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
-* 
+* Sep 4, 2022 Decred Roundtable State of the market - Import - https://www.decredmagazine.com/decred-round-table-state-of-the-market/
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
