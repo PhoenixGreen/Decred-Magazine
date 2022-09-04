@@ -36,11 +36,11 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed dscription
-* 
+* Sept 4th - Upgrade site and theme plus error and breakage checking - Decred Magazine now has built-in search and comments. These were both features I held off including due to third party tracking. These are built-in so no third party included. Which also makes the services extreamly light weight and fast. 
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
-* Sep 4, 2022 Decred Roundtable State of the market - Import - https://www.decredmagazine.com/decred-round-table-state-of-the-market/
+* Sept 4, 2022 Decred Roundtable State of the market - Import - https://www.decredmagazine.com/decred-round-table-state-of-the-market/
 * 
 
 # Phoenix Green - Official Contributor Work:
