@@ -36,7 +36,9 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed dscription
-* Sept 4th - Upgrade site and theme plus error and breakage checking - Decred Magazine now has built-in search and comments. These were both features I held off including due to third party tracking. These are built-in so no third party included. Which also makes the services extreamly light weight and fast. 
+* Sept 4th - Upgrade site and theme plus error and breakage checking - Decred Magazine now has built-in search and comments. These were both features I held off including due to third party tracking. These are built-in so no third party included. Which also makes the services extreamly light weight and fast.
+* Sept 6th - Conducted a full backup of Decred Magazine up to August 31st 2022. This is stored on local development environment, on Backup drive, and on Google Drive.
+* TO DO ---------- Upload full backup to GitHub with removed subscriber info and author email addresses to be compliant with privacy regulations.
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
