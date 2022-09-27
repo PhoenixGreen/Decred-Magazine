@@ -32,7 +32,9 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Introducing Decred Community Member João Paulo Sant’Anna - 2 month blast - Sep 11 - Nov 10 2022
 * DCRDATA Decred's Treasury Data - 12 month evergreen - Sep 21 2022 - Sep 21 2023
 * Decentralised Treasury Spending Decred Fundamentals - 12 month evergreen - Sep 23 2022 - Sep 23 2023
-* 
+* Decred Journal – August 2022 - 1 Month Blast - Sep 27 - Oct 16 2022
+* The one where everything looks bad but I post lots of hopium - 2 Week Blast - Sep 27 - Oct 11 2022
+* Who's in charge of Decred? - 1 week Blast - Sep 27 - Oct 6 2022
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed dscription
@@ -42,19 +44,28 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed dscrip
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
-* Sept 4, 2022 Decred Roundtable State of the market - Import - https://www.decredmagazine.com/decred-round-table-state-of-the-market/
+* Sept 4, 2022 - Decred Roundtable State of the market - Import - https://www.decredmagazine.com/decred-round-table-state-of-the-market/
+* Sep 6, 2022 - Stablecoins on Decred - Import - https://www.decredmagazine.com/stablecoins-on-decred/
+* Sep 9, 2022 - Decred News Update - September 2022 - Import and Podcast - https://www.decredmagazine.com/decred-news-update-september-2022/
+* Sep 13, 2022 - DCRDATA Making Markets - Import - https://www.decredmagazine.com/dcrdata-making-markets-decred-fundamentals/
+* Sep 16, 2022 - Decred Journal – August 2022 - Import - https://www.decredmagazine.com/decred-journal-august-2022/
 * 
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Sep 18, 2022 - MondePR August 2022 - https://www.decredmagazine.com/mondepr-august-2022/ - Medium Format
+* Sep 20, 2022 - Introducing Decred Community Member Ronnie Amato - https://www.decredmagazine.com/introducing-decred-community-member-ronnie-amato/ - Medium Format
 * 
 
 # Applesaucesome - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Sep 10, 2022 - Light at the end of the tunnel - https://www.decredmagazine.com/decred-light-at-the-end-of-the-tunnel/ - Medium Format
+* Sep 25, 2022 - The one where everything looks bad but I post lots of hopium - https://www.decredmagazine.com/the-one-where-i-post-lots-of-hopium/ - Medium Format
 * 
 
 # OfficialCryptos - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Sep 23, 2022 - Decred the Armoured Lizard - https://www.decredmagazine.com/decred-the-armoured-lizard/ - Medium format
 * 
 
 # Tivra - Official Contributor Work:
@@ -63,7 +74,7 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 
 # João Paulo Sant’Anna - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
+* Sep 27, 2022 - Rio de Janeiro aims to become a Crypto Capital - https://www.decredmagazine.com/rio-de-janeiro-aims-to-be-a-crypto-capital/ - Medium Format
 
 # RONNIE AMATO - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
