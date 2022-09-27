@@ -35,12 +35,14 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred Journal – August 2022 - 1 Month Blast - Sep 27 - Oct 16 2022
 * The one where everything looks bad but I post lots of hopium - 2 Week Blast - Sep 27 - Oct 11 2022
 * Who's in charge of Decred? - 1 week Blast - Sep 27 - Oct 6 2022
+* 
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed dscription
 * Sept 4th - Upgrade site and theme plus error and breakage checking - Decred Magazine now has built-in search and comments. These were both features I held off including due to third party tracking. These are built-in so no third party included. Which also makes the services extreamly light weight and fast.
 * Sept 6th - Conducted a full backup of Decred Magazine up to August 31st 2022. This is stored on local development environment, on Backup drive, and on Google Drive.
 * TO DO ---------- Upload full backup to GitHub with removed subscriber info and author email addresses to be compliant with privacy regulations.
+* 
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
@@ -75,6 +77,7 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 # João Paulo Sant’Anna - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * Sep 27, 2022 - Rio de Janeiro aims to become a Crypto Capital - https://www.decredmagazine.com/rio-de-janeiro-aims-to-be-a-crypto-capital/ - Medium Format
+* 
 
 # RONNIE AMATO - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
