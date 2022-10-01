@@ -2,15 +2,15 @@
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Decred Magazine Engagement Stats for this month:
-* Total number of articles on DM -  000
-* Newsletter subscribers - 00
-* New DM Posts and Newsletters sent - 00
-* Active Social media campaigns - 0
-* Social media posts - 00
-* Post clicks - 000
-* Likes - 000
-* Re-tweets - 00
-* Social media followers across all platforms and accounts - 000
+* Total number of articles on DM -  318
+* Newsletter subscribers - 66
+* New DM Posts and Newsletters sent - 13
+* Active Social media campaigns - 12
+* Social media posts - 151
+* Post clicks - 000???
+* Likes - 662
+* Re-tweets - 114
+* Social media followers across all platforms and accounts - 973
 
 
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
@@ -51,7 +51,7 @@ Reporting structure: Content date - Content type - Title - Link
 * Sep 9, 2022 - Decred News Update - September 2022 - Import and Podcast - https://www.decredmagazine.com/decred-news-update-september-2022/
 * Sep 13, 2022 - DCRDATA Making Markets - Import - https://www.decredmagazine.com/dcrdata-making-markets-decred-fundamentals/
 * Sep 16, 2022 - Decred Journal – August 2022 - Import - https://www.decredmagazine.com/decred-journal-august-2022/
-* 
+* Sep 30, 2022 - Why does Decred have its own exchange? - Import - https://www.decredmagazine.com/why-does-decred-have-its-own-exchange/
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
@@ -70,25 +70,14 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 * Sep 23, 2022 - Decred the Armoured Lizard - https://www.decredmagazine.com/decred-the-armoured-lizard/ - Medium format
 * 
 
-# Tivra - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
 # João Paulo Sant’Anna - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * Sep 27, 2022 - Rio de Janeiro aims to become a Crypto Capital - https://www.decredmagazine.com/rio-de-janeiro-aims-to-be-a-crypto-capital/ - Medium Format
 * 
 
-# RONNIE AMATO - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# Shiraz Jagati - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
 # Wahid Pessarlay - SunContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Sep 29, 2022 - Decred pushes for highly convenient P2P atomic swaps with DCRDEX v0.5 - https://www.decredmagazine.com/decred-pushes-for-highly-convenient-p2p-atomic-swaps-with-dcrdex-v0-5/ (455 words * $0.15 = $68.25)
 * 
 
 
