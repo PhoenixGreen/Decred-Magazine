@@ -29,6 +29,7 @@ This section is for reference only, to identify the workload of the editor role 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred Journal – September 2022 - 2 week blast - Oct 19 - Nov 6 2022
+* MondePR report for September 2022 - 2 week blast - Oct 24 - Nov 7 2022
 * 
 
 ## Site Admin
