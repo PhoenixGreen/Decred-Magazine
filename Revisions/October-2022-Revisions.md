@@ -34,6 +34,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred holding all cards - 12 month evergreen - Oct 24 2022 - Oct 24 2023
 * Stablecoins on Decred - 12 month evergreen - Oct 24 2022 - Oct 24 2023
 * DCRDATA Making Markets - 12 month blast - Oct 19 2022 - Oct 19 2023
+* Introducing Decred Community Member Ronnie Amato - 12 month evergreen - Oct 30 2022 - Oct 30 2023
 * 
 
 ## Site Admin
