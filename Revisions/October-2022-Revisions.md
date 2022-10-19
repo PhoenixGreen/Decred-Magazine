@@ -30,6 +30,10 @@ This section is for reference only, to identify the workload of the editor role 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred Journal – September 2022 - 2 week blast - Oct 19 - Nov 6 2022
 * MondePR report for September 2022 - 2 week blast - Oct 24 - Nov 7 2022
+* ZCash is under attack - 2 week blast - Oct 19 - Nov 2 2022
+* Decred holding all cards - 12 month evergreen - Oct 24 2022 - Oct 24 2023
+* Stablecoins on Decred - 12 month evergreen - Oct 24 2022 - Oct 24 2023
+* DCRDATA Making Markets - 12 month blast - Oct 19 2022 - Oct 19 2023
 * 
 
 ## Site Admin
