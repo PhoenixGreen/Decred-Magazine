@@ -28,6 +28,7 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Decred Journal – September 2022 - 2 week blast - Oct 19 - Nov 6 2022
 * 
 
 ## Site Admin
@@ -36,11 +37,17 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed dscrip
 * Oct 5 - 15, 2022 - In communication with several writters including @BlockchainJew and @NoahPierau
 * Oct 6, 2022 - João Silva @Joao096 set up the Decred Magazine Instagram page - https://www.instagram.com/decredmagazine/
 * Oct 10, 2022 - João Silva @Joao096 is looking to setup the Decred Magazine TikTok page, work in progress
+* Oct 15, 2022 - Closed the post advertising for DM writer. Some good oportunities that I'm following up but also a lot of spam and fiverr style writers with no background in Decred. Mostly wanted to talk about number go up.
+* Oct 15, 2022 - From the advertising post I've desided to try out one of the writters @blockchainjew. Possibly @NoahPierau but communication is very limited, so likely to pass on this opportunity.
+* Oct 16, 2022 - Talking to Ronne Amato about doing an ongoing Privacy series (possible as a collaberation)
+* Oct 17, 2022 - Talking to BlockchainJew about doing a crypto news weekly / Bi weekly slot starting with an article on Censorship to test the concept with the community.
+* Oct 18, 2022 - Currently looking for a technical editor / writer for Decred Magazine after discussion with Bee
 * 
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
 * Oct 2, 2022 - Import - Who's in charge of Decred? - https://www.decredmagazine.com/whos-in-charge-of-decred-state-of-the-market/
+* Oct 19, 2022 - Import - Decred Journal – September 2022 - https://www.decredmagazine.com/decred-journal-september-2022/
 * 
 
 # Phoenix Green - Official Contributor Work:
