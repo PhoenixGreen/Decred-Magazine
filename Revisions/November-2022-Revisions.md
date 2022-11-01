@@ -62,7 +62,7 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
-# Wahid Pessarlay - SunContractor Work:
+# Wahid Pessarlay - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
