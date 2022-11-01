@@ -54,41 +54,35 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed dscrip
 Reporting structure: Content date - Content type - Title - Link
 * Oct 2, 2022 - Import - Who's in charge of Decred? - https://www.decredmagazine.com/whos-in-charge-of-decred-state-of-the-market/
 * Oct 19, 2022 - Import - Decred Journal – September 2022 - https://www.decredmagazine.com/decred-journal-september-2022/
+* Oct 21, 2022 - Import - Peer to Peer Exchange - The future is here! - https://www.decredmagazine.com/peer-to-peer-exchange-the-future-is-here-decred-dcrdex/
+* Oct 25, 2022 - Import - DCRDEX First Look - DecredDEX Fundamentals - https://www.decredmagazine.com/dcrdex-first-look-decreddex-fundamentals/
+* Oct 26, 2022 - Import - POLITEIA DIGEST August 17 - October 25 2022 - https://www.decredmagazine.com/politeia-digest-august-17-october-25-2022/
+* Oct 30, 2022 - Import - Discovering DCRDEX Markets page - https://www.decredmagazine.com/discovering-dcrdex-markets-page/
+* Oct 31, 2022 - Import - Decred's PoW/PoS Hybrid And Hostile Miner Troubles - https://www.decredmagazine.com/decreds-pow-pos-hybrid-and-hostile-miner-troubles/
+* Oct 31, 2022 - Import - Decred News Update - Brazil's future President uses time-stamping - https://www.decredmagazine.com/decred-news-update-brazils-future-president-uses-time-stamping/
 * 
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * Oct 9, 2022 - ZCash is under attack - https://www.decredmagazine.com/zcash-is-under-attack/ - Medium
 * Oct 12, 2022 - MondePR report for September 2022 - https://www.decredmagazine.com/mondepr-report-for-september-2022/ - Medium
-* 
-
-# Applesaucesome - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Oct 26, 2022 - Tiago Alves Dulce Developer Q&A - https://www.decredmagazine.com/tiago-alves-dulce-developer-q-a/ - Medium
 * 
 
 # OfficialCryptos - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * Oct 7, 2022 - Decred holding all cards - https://www.decredmagazine.com/decred-holding-all-cards/ - Medium
-* 
-
-# Tivra - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Oct 27, 2022 - Decred is money evolved! - https://www.decredmagazine.com/decred-is-money-evolved/ - Medium
 * 
 
 # João Paulo Sant’Anna - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Oct 23, 2022 - Creation of marketing content for the crypto market - https://www.decredmagazine.com/creation-of-marketing-content-for-the-crypto-market/ - Medium
+* Oct 31, 2022 - Decred vs Zcash: an honest comparison - https://www.decredmagazine.com/decred-vs-zcash-a-honest-comparison/ - Medium
 * 
 
 # RONNIE AMATO - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Oct 28, 2022 - Are privacy coins future proof? - https://www.decredmagazine.com/are-privacy-coins-future-proof/ - Long
 * 
-
-# Wahid Pessarlay - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# BlockchainJew - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
 
