@@ -12,7 +12,7 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Re-tweets - 00
 * Social media followers across all platforms and accounts - 000
 
-# Decred Magazine Instagram Stats (https://www.instagram.com/decredmagazine/) by santanna_jp:
+## Decred Magazine Instagram Stats (https://www.instagram.com/decredmagazine/) by santanna_jp:
 * Followers - 00
 * Posts - 0
 
