@@ -2,12 +2,12 @@
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Decred Magazine Engagement Stats for this month:
-* Total number of articles on DM -  000
+* Total number of articles on Decred Magazine -  000
 * Newsletter subscribers - 00
-* New DM Posts and Newsletters sent - 00
+* New Decred Magazine Posts and Newsletters sent - 00
 * Active Social media campaigns - 0
+* Completed Social media campaigns - 0
 * Social media posts - 00
-* Post clicks - 000
 * Likes - 000
 * Re-tweets - 00
 * Social media followers across all platforms and accounts - 000
@@ -60,12 +60,11 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
-# Shiraz Jagati - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
 # Wahid Pessarlay - SunContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
+# Blockchain Jew - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
 
