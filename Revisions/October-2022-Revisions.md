@@ -2,15 +2,15 @@
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Decred Magazine Engagement Stats for this month:
-* Total number of articles on DM -  000
-* Newsletter subscribers - 00
-* New DM Posts and Newsletters sent - 00
-* Active Social media campaigns - 0
-* Social media posts - 00
-* Post clicks - 000
-* Likes - 000
-* Re-tweets - 00
-* Social media followers across all platforms and accounts - 000
+* Total number of articles on Decred Magazine -  334
+* Newsletter subscribers - 72
+* New Decred Magazine Posts and Newsletters sent - 16
+* Active Social media campaigns - 15
+* Completed Social media campaigns - 17
+* Social media posts - 120
+* Likes - 557
+* Re-tweets - 110
+* Social media followers across all platforms and accounts - 1020
 
 * Decred Magazine Instagram Stats - Followers 000, Posts 000
 
