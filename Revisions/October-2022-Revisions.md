@@ -12,7 +12,9 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Re-tweets - 110
 * Social media followers across all platforms and accounts - 1020
 
-* Decred Magazine Instagram Stats - Followers 000, Posts 000
+Decred Magazine Instagram Stats (https://www.instagram.com/decredmagazine/) by santanna_jp
+* Followers - 21
+* Posts - 4
 
 
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
