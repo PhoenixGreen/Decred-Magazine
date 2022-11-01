@@ -1,7 +1,7 @@
 # ?MONTH? 2022 Revisions
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
-# Decred Magazine Engagement Stats for this month (Twitter and Facebook @decredmagazine & @decredsociety) by phoenixgreen:
+# Decred Magazine Engagement Stats for this month:
 * Total number of articles on Decred Magazine -  000
 * Newsletter subscribers - 00
 * New Decred Magazine Posts and Newsletters sent - 00
