@@ -31,6 +31,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Monde PR report for October 2022 - 2 week blast - Nov 8 - Nov 22 2022
 * Decred News Update - Brazil's future President uses time - 2 week blast - Nov 9 - Nov 23 2022
 * Decred vs Zcash: an honest comparison - 1 Year Blast - Nov 15 2022 - Nov 8 2023
+* Decred's PoW/PoS Hybrid And Hostile Miner Troubles - 2 month blast - Oct 19 - Nov 15 2022
 * 
 
 ## Site Admin
