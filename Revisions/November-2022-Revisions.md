@@ -32,6 +32,8 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred News Update - Brazil's future President uses time - 2 week blast - Nov 9 - Nov 23 2022
 * Decred vs Zcash: an honest comparison - 1 Year Blast - Nov 15 2022 - Nov 8 2023
 * Decred's PoW/PoS Hybrid And Hostile Miner Troubles - 2 month blast - Oct 19 - Nov 15 2022
+* Decred pushes for highly convenient P2P atomic swaps with - 2 week blast - Nov 8 - Nov 22 2022
+* Tiago Alves Dulce Developer Q&A - 12 month evergreen - Nov 8 2022 - Nov 8 2023
 * 
 
 ## Site Admin
