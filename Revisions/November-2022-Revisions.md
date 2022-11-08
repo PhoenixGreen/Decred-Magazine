@@ -29,6 +29,8 @@ This section is for reference only, to identify the workload of the editor role 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Monde PR report for October 2022 - 2 week blast - Nov 8 - Nov 22 2022
+* Decred News Update - Brazil's future President uses time - 2 week blast - Nov 9 - Nov 23 2022
+* Decred vs Zcash: an honest comparison - 1 Year Blast - Nov 15 2022 - Nov 8 2023
 * 
 
 ## Site Admin
