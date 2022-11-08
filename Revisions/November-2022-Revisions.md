@@ -28,18 +28,29 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Monde PR report for October 2022 - 2 week blast - Nov 8 - Nov 22 2022
 * 
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed dscription
+* Updated Decred Magazine's social presents for more consistency.
+* Email - http://Decredmagazine.com
+* Podcasts - http://anchor.fm/decred-magazine
+* Instagram - http://instagram.com/decredmagazine
+* Facebook - http://facebook.com/Decredmagazine
+* Twitter - https://twitter.com/decredmagazine
+* Currently thinking about changing the name of the Decred Society youtube channel to Decred Magazine for specific content that might be unsuitable for the Decredchannel youtube channel. Feedback appreciated!?
+* Undated featured image and descriptions for these channels to suit the new brand. Work is ongoing
 * 
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
+* Nov 6, 2022 - Decred Community Roundtable 2 - Decred as an interoperable market place - https://www.decredmagazine.com/decred-roundtable-state-of-the-market/
 * 
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Nov 8, 2022 - Monde PR report for October 2022 - https://www.decredmagazine.com/monde-pr-report-for-october-2022/
 * 
 
 # Applesaucesome - Official Contributor Work:
@@ -68,6 +79,6 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 
 # Blockchain Jew - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
+* Nov 3, 2022 - Decred’s stand on censorship in the Blockchain - https://www.decredmagazine.com/decreds-stand-on-censorship-in-the-blockchain/
 
 
