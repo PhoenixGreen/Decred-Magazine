@@ -2,19 +2,19 @@
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Decred Magazine Engagement Stats for this month:
-* Total number of articles on Decred Magazine -  000
-* Newsletter subscribers - 00
-* New Decred Magazine Posts and Newsletters sent - 00
-* Active Social media campaigns - 0
-* Completed Social media campaigns - 0
-* Social media posts - 00
-* Likes - 000
-* Re-tweets - 00
-* Social media followers across all platforms and accounts - 000
+* Total number of articles on Decred Magazine -  350
+* Newsletter subscribers - 77
+* New Decred Magazine Posts and Newsletters sent - 16
+* Active Social media campaigns - 16
+* Completed Social media campaigns - 24
+* Social media posts - 147
+* Likes - 823
+* Re-tweets - 198
+* Social media followers across all platforms and accounts - 1040
 
 ## Decred Magazine Instagram Stats (https://www.instagram.com/decredmagazine/) by santanna_jp:
-* Followers - 00
-* Posts - 0
+* Followers - 22
+* Posts - 4
 
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 Billing Breakdown for Editor Role (max billable 10hrs per week).
