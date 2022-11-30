@@ -63,11 +63,15 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
-# Wahid Pessarlay - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
 # Blockchain Jew - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
+
+# Hassan Maishera - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+
+
+
 
