@@ -67,7 +67,7 @@ Reporting structure: Content date - Content type - Title - Link
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * Nov 8, 2022 - Monde PR report for October 2022 - https://www.decredmagazine.com/monde-pr-report-for-october-2022/ (Medium)
-* Nov 18, 2022 - Decred's Technology Stack Overview - https://www.decredmagazine.com/decreds-technology-stack-overview/ (Long 7hrs)
+* Nov 18, 2022 - Decred's Technology Stack Overview - https://www.decredmagazine.com/decreds-technology-stack-overview/ (Long)
 * Nov 27, 2022 - cli_query Developer Q&A - https://www.decredmagazine.com/cli_query-developer-q-a/ (Medium)
 * 
 
