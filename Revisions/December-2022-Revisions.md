@@ -30,6 +30,9 @@ This section is for reference only, to identify the workload of the editor role 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Trapped in the Web - 2 week blast - Dec 10 - Dec 24 2022
+* What is wrong with Decred? - 2 week blast - Dec 11 - Dec 25 2022
+* Embracing Degeneracy, Part 1 – Decred NFTs - 2 month blast - Dec 11 2022 - Feb 9 2023
+* FTX’s Collapse Intensifies The Need For Decentralized Exchanges - 12 month evergreen - Dec 12 2022 - Dec 12 2023
 * 
 
 ## Site Admin
