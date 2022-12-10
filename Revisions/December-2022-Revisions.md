@@ -34,6 +34,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Embracing Degeneracy, Part 1 – Decred NFTs - 2 month blast - Dec 11 2022 - Feb 9 2023
 * FTX’s Collapse Intensifies The Need For Decentralized Exchanges - 12 month evergreen - Dec 12 2022 - Dec 12 2023
 * Decred vs Litecoin: best alternatives for Bitcoin? - 12 month evergreen - Dec 13 2022 - Dec 13 2023
+* cli_query Developer Q&A - 12 month evergreen - Dec 14 2022 - Dec 14 2023
 * 
 
 ## Site Admin
