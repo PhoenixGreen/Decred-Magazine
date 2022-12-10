@@ -38,6 +38,8 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Peer to Peer Exchange - The future is here! - 12 Month Blast - Dec 17 2022 - Dec 10 2023
 * Decred is money evolved! - 12 Month Blast - Dec 18 2022 - Dec 11 2023
 * Are privacy coins future proof? - 12 month evergreen - Dec 14 2022 - Dec 14 2023
+* Reviewing DEX security - 6 month evergreen - Dec 16 2022 - Jun 14 2023
+* Brazil new President used Decred Blockchain to improve his election - 2 month blast - Dec 10 2022 - Feb 8 2023
 * 
 
 ## Site Admin
