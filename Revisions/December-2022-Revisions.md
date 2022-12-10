@@ -33,6 +33,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * What is wrong with Decred? - 2 week blast - Dec 11 - Dec 25 2022
 * Embracing Degeneracy, Part 1 – Decred NFTs - 2 month blast - Dec 11 2022 - Feb 9 2023
 * FTX’s Collapse Intensifies The Need For Decentralized Exchanges - 12 month evergreen - Dec 12 2022 - Dec 12 2023
+* Decred vs Litecoin: best alternatives for Bitcoin? - 12 month evergreen - Dec 13 2022 - Dec 13 2023
 * 
 
 ## Site Admin
