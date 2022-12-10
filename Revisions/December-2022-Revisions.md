@@ -35,6 +35,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * FTX’s Collapse Intensifies The Need For Decentralized Exchanges - 12 month evergreen - Dec 12 2022 - Dec 12 2023
 * Decred vs Litecoin: best alternatives for Bitcoin? - 12 month evergreen - Dec 13 2022 - Dec 13 2023
 * cli_query Developer Q&A - 12 month evergreen - Dec 14 2022 - Dec 14 2023
+* Peer to Peer Exchange - The future is here! - 12 Month Blast - Dec 17 2022 - Dec 10 2023
 * 
 
 ## Site Admin
