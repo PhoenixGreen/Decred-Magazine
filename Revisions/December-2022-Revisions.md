@@ -29,6 +29,7 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Trapped in the Web - 2 week blast - Dec 10 - Dec 24 2022
 * 
 
 ## Site Admin
