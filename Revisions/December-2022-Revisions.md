@@ -49,6 +49,9 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
+* Dec 2, 2022 - Import - What is wrong with Decred? - https://www.decredmagazine.com/what-is-wrong-with-decred/
+* Dec 4, 2022 - Import - 2022 the year of the bear - https://www.decredmagazine.com/2022-the-year-of-the-bear/
+* Dec 9, 2022 - Import - Trapped in the Web - https://www.decredmagazine.com/decred-trapped-in-the-web/
 * 
 
 # Phoenix Green - Official Contributor Work:
@@ -81,6 +84,11 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 
 # Hassan Maishera - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
+
+# C12 - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Dec 3, 2022 - Embracing Degeneracy, Part 1 – Decred NFTs - https://www.decredmagazine.com/embracing-degeneracy-part-1-decred-nfts/ (Long form)
 * 
 
 
