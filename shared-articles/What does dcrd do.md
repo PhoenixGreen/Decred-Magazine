@@ -1,4 +1,3 @@
-@: What does DCRD do
 Blockchain technology is hyped as being the most important innovation of the century. And as such, I think it’s necessary that we delve into the components that make this revolutionary tech possible.
 
 Ultimately, blockchain is a network, pretty much like any other network. Where one computer is connected to another, and then in turn, each computer added is connected to all others (or as many as possible). 
