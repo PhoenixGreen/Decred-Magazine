@@ -62,11 +62,11 @@ In the past, I’ve been criticised for liking the fact that Decred’s blockcha
 From a personal perspective, I’m secure! The next step for me is to add security to the network by running a top-tier node with an open inbound connection running 24/7/365.
 
 ## Technical specifications for running dcrd
-16 GB disk space (as of April 2022, increases over time, 2 GB/yr)
-2 GB memory (RAM)
-150 MB/day download, 1.5 GB/day upload
-Plus one-time initial download of the entire blockchain
-Windows, macOS, Linux
+* 16 GB disk space (as of April 2022, increases over time, 2 GB/yr)
+* 2 GB memory (RAM)
+* 150 MB/day download, 1.5 GB/day upload
+* Plus one-time initial download of the entire blockchain
+* Windows, macOS, Linux
 
 ## References
 * Decred dcrd – https://github.com/decred/dcrd
