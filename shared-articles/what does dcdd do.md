@@ -3,7 +3,11 @@ Blockchain technology is perhaps one of the most important innovations of the ce
 
 Blockchains are a public ledger which are distributed among a peer-to-peer network of computers. There is no central server that stores the ledger. It doesn't exist out there, somewhere in the void. The ledger is stored on people's computers. If a new computer connects to the network and asks for the ledger, it downloads the ledger from multiple peers. 
 
-The immutable nature of the information being transmitted and stored is the distinct difference between blockchain and a conventional network. Effectively, this is a book of accounts, better known as a ledger, which is synchronised across all fully participating computers (nodes). To participate, each computer needs to carry the ledger in its entirety and synchronise with other computers and the pool of new transactions. 
+To fully participate in the network, a computer needs to carry the ledger in its entirety, verify that the ledger is following all the consensus rules, and synchronize with the rest of the network so that all the other participants maintain an identical ledger.
+
+There's strength in numbers. It's possible that a single, malicious, participant could invent a new ledger that makes them a multi-billionaire. However, if the majority of everyone else on the network is following the same consensus rules, it would be impossible for that malicious participant to give their malicious ledger to everyone else. Everyone else would just reject it, saying: "No, this doesn't follow the rules."
+
+Therefore, since the network participants are each following the same set of rules, and everyone is sharing the same ledger between each other, it's impossible to go back and retroactively alter the ledger. You can only add new information to the ledger. That's what makes old blocks immutable.
 
 The ledger is made up of individual pages which are known as blocks, and each block is linked with a unique code which makes it hard to reverse or manipulate the historic information stored. 
 
