@@ -1,5 +1,5 @@
 
-Blockchain technology is hyped as being the most important innovation of the century. And as such, I think it’s necessary that we delve into the components that make this revolutionary tech possible.
+Blockchain technology is perhaps one of the most important innovations of the century. It's a complex fusion of tools and protocols like networking, cryptography, privacy, security, ownership, trustless communication, governance, etc. A true blockchain is permissionless, which means anyone can use the blockchain without asking permission. However, people who use blockchains are inherently agreeing to the rules that the blockchain runs on. Those rules are (hopefully) established by consensus. Each of those consensus rules actually have to be implemented into software, which is what enforces the rules. As such, it's important to delve into the software that's enabling and enforcing the rules on a blockchain for everyone's benefit.
 
 Ultimately, blockchain is a network, pretty much like any other network. Where one computer is connected to another, and then in turn, each computer added is connected to all others (or as many as possible). 
 
