@@ -23,14 +23,23 @@ dcrd is the backbone of Decred's peer-to-peer network. dcrd acts as a 'full node
 
 In terms of benefits, since dcrd fully validates every block and transaction, it provides the highest security and privacy possible when used with a wallet that’s also in full validation mode. This is ideal for individuals, businesses, and services that need the most reliable and accurate data about transactions.
 
-## Node Hierarchy
-As Decred builds out its infrastructure, it becomes apparent that the underlying security is a high priority. Each time a new service is added, it increases the opportunity for node participation. This is done on multiple levels, and it’s important to note that not every node is equal.
+## Full Node Distinctions
+As Decred builds out its infrastructure, it becomes apparent that the underlying security is a high priority. Each time a new service is added, it increases the opportunity for node participation. This is done on multiple levels, and it’s important to note that not every node is equal. There are two factors to consider when determining the usefulness of a node:
 
-**A top tier fully validating node** is a dcrd unit run either as a stand-alone piece of software or as part of a service for 24 hours, 7 days a week, 365 days a year. This node has an inbound port open, so it can be publicly accessible for other nodes to connect to. This full node is the one that adds security to the chain and makes the project more decentralised. 
+**Uptime**
+* High-uptime (running 24/7/365, or close to it)
+* Low-uptime (running intermittently)
+**With inbound connections**
+* No (default)
+* Yes (requires the user to open up a port in their firewall)
 
-**Side note: **There is also an option for running dcrd over the Tor network for greater privacy and security.
+**Dcrd configuration options include**
+* High-uptime with inbound connections
+* High-uptime without inbound connections
+* Low-uptime with inbound connections
+* Low-uptime without inbound connections
 
-**A second tier fully validating node** is a dcrd unit running intermittently or continuously, with the default settings which don’t include an open inbound port. This is not a publicly accessible node, which means other nodes in the network can’t connect to it, but it can connect to them. This full node is perfect for validating chain information and is good for personal privacy and security. This node setup doesn’t add to the security of the chain or make the project more decentralised.
+The Full node that supports the network the best is the High-uptime with inbound connections.
 
 **Simple Payment Verification (SPV)** is not a node, but a wallet function. It allows the use of a Decred wallet without having to download the entire Decred blockchain. A wallet operating in SPV mode only needs to download full blocks containing transactions relevant to it and block headers. This reduces the wallet’s hardware requirements and greatly reduces the initial load time for new wallets. When an SPV wallet initialises, it will connect to the Decred network using dcrd peer connections.
 
