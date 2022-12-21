@@ -67,8 +67,6 @@ Wallets running in fully validating mode allow for maximum personal privacy and 
 
 **DCRDEX Operators** need access to trusted full nodes for each of the assets supported. While operation via a surrogate blockchain data service such as a block explorer is potentially feasible, as it is with all Decred services. It would entail significant security risks and threat of funds being stolen.  
 
-?? What other services could I add, and how do they interact with nodes ??
-
 ## Conclusion
 Running a fully validating node is the best way of understanding how the network is performing. When you participate in the decentralisation of the network, you understand what it takes to run it and the levels to which you are contributing. 
 
