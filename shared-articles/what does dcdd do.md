@@ -14,11 +14,12 @@ The software that makes this all possible on the Decred blockchain is dcrd. dcrd
 ## dcrd responsibilities:
 dcrd is the backbone of Decred's peer-to-peer network. dcrd acts as a 'full node', short for 'fully-validating node', which means that it fully validates all transactions and blocks, as opposed to trusting a 3rd party or someone else's ledger. In summary, a dcrd full node:
 
-* dcrd maintains the entire past transactional ledger of Decred
-* Allows relaying of transactions to other Decred nodes around the world
-* Maintains a transaction pool
-* Relays newly mined blocks
-* and finally ensures all transactions follow the rules
+* Fully validates all transactions and blocks (by enforcing the Decred consensus rules),
+* Maintains the entire past transactional ledger of Decred,
+* Relays newly mined blocks,
+* Gives the ability to mine blocks,
+* Allows relaying of transactions to other Decred nodes around the world (by sharing a transaction mempool),
+* Allows sharing a list of peers in the Decred network so that each new peer can talk to as many other peers as possible.
 
 In terms of benefits, since dcrd fully validates every block and transaction, it provides the highest security and privacy possible when used with a wallet that’s also in full validation mode. This is ideal for individuals, businesses, and services that need the most reliable and accurate data about transactions.
 
