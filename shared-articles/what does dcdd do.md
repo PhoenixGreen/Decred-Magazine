@@ -48,7 +48,7 @@ When you run dcrd for the first time, it needs to figure out where to look for t
 
 With each connection a node makes, it shares its own connections, like saying "here are all the IP addresses I know of who run dcrd." Each node builds its own list of peers to check and ask, "hey, do any of you have any new blocks?" Full nodes can do this without accepting inbound connections. They still need to maintain a list of peers to query for each outbound connection.
 
-But if nobody opened up their inbound connection through their firewall, then all these dcrd nodes would be reaching out to the IP addresses in their peers list and asking "hey, can I talk to you? Do you have new blocks?" And the firewall would just block all the traffic and no peers would be able to talk to each other.
+However, imagine if nobody opened up inbound connections through their firewall. Every dcrd node would just continually reach out to the IP addresses in their peers list, asking "Hey, can I talk to you? Do you have new blocks?" And each firewall would just block all traffic. No nodes would be able to talk to each other.
 
 The point is that somebody has to open up their inbound connection to allow their node to be publicly accessible. The more people that do this will increase the security and decentralisation of the network. 
 
