@@ -57,7 +57,10 @@ Decred has a multitude of services that run dcrd nodes in one way or another. So
 
 ## Decred Services and dcrd
  
-**Decrediton** can be run either as a fully validating node or in SPV mode. For security reasons, wallets will never have an open inbound connection. Wallets running in fully validating mode allow for maximum personal privacy and security. On the other hand, SPV mode is great for mobile wallets or when a device has limited resources. 
+ 
+**Decrediton** can be run either as a fully validating node or in SPV mode. Wallets will never have an open inbound connection. The main reason for this is because wallets usually only run for short periods of time, not as a long-running background process. Allowing other dcrd instances to connect to an instance which only runs intermittently is actually bad for the network, because every instance connected is going to have to find a replacement peer once the wallet is disconnected. Its better if they just connect to a long-lived peer in the first place.
+
+Wallets running in fully validating mode allow for maximum personal privacy and security. On the other hand, SPV mode is great for mobile wallets or when a device has limited resources. 
 
 **Lightning Network Channels** are run as fully validating nodes and for maximum accessibility can have an open inbound connection. LN operators are also incentivised with the fees from conducting transactions over the Lightning Network. For the best performance, these nodes should run constantly 24/7/365.
 
