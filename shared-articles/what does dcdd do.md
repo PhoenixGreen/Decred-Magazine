@@ -9,7 +9,7 @@ There's strength in numbers. It's possible that a single, malicious, participant
 
 Therefore, since the network participants are each following the same set of rules, and everyone is sharing the same ledger between each other, it's impossible to go back and retroactively alter the ledger. You can only add new information to the ledger. That's what makes old blocks immutable.
 
-The software that makes this possible on the Decred blockchain is dcrd, which is known as a full node implementation of Decred (written in Go – golang). It acts as a fully validating chain daemon for the Decred cryptocurrency. A daemon is a computer program that runs as a background process, rather than being under the direct control of an interactive user. You can consider dcrd to be your personal Decred blockchain server.
+The software that makes this all possible on the Decred blockchain is dcrd. dcrd is written in Go (golang), and implements all the consensus rules and core blockchain ledger functionality. It is important to note that dcrd does NOT include wallet functionality, and was designed that way for security reasons. You can consider dcrd to be your personal Decred blockchain server, which would connect you to the rest of the Decred network.
 
 ## dcrd responsibilities:
 dcrd is the backbone of Decred’s peer to peer network and has specific processes to conduct to keep the network functioning. Running a full node with dcrd contributes to the overall security of the network and increases the available paths for transactions and blocks to relay.
