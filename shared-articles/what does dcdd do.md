@@ -12,7 +12,7 @@ Therefore, since the network participants are each following the same set of rul
 The software that makes this all possible on the Decred blockchain is dcrd. dcrd is written in Go (golang), and implements all the consensus rules and core blockchain ledger functionality. It is important to note that dcrd does NOT include wallet functionality, and was designed that way for security reasons. You can consider dcrd to be your personal Decred blockchain server, which would connect you to the rest of the Decred network.
 
 ## dcrd responsibilities:
-dcrd is the backbone of Decred’s peer to peer network and has specific processes to conduct to keep the network functioning. Running a full node with dcrd contributes to the overall security of the network and increases the available paths for transactions and blocks to relay.
+dcrd is the backbone of Decred's peer-to-peer network. dcrd acts as a 'full node', short for 'fully-validating node', which means that it fully validates all transactions and blocks, as opposed to trusting a 3rd party or someone else's ledger. In summary, a dcrd full node:
 
 * dcrd maintains the entire past transactional ledger of Decred
 * Allows relaying of transactions to other Decred nodes around the world
