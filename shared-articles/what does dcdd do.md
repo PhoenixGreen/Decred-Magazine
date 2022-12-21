@@ -65,7 +65,7 @@ Wallets running in fully validating mode allow for maximum personal privacy and 
 
 **Voting Service Providers (VSP)** are run as fully validating nodes and for maximum accessibility can have an open inbound connection. VSP operators are also incentivised with the fees for conducting ticket transactions. For the best performance, these nodes should run constantly 24/7/365 and have +4 instances to increase reliability.
 
-**DCRDEX Operators** need access to trusted full nodes for each of the assets supported. While operation via a surrogate blockchain data service such as a block explorer is potentially feasible, it would entail significant security risks. 
+**DCRDEX Operators** need access to trusted full nodes for each of the assets supported. While operation via a surrogate blockchain data service such as a block explorer is potentially feasible, as it is with all Decred services. It would entail significant security risks and threat of funds being stolen.  
 
 ?? What other services could I add, and how do they interact with nodes ??
 
