@@ -61,7 +61,7 @@ Decred has a multitude of services that run dcrd nodes in one way or another. So
 
 Wallets running in fully validating mode allow for maximum personal privacy and security. On the other hand, SPV mode is great for mobile wallets or when a device has limited resources. 
 
-**Lightning Network Channels** are run as fully validating nodes and for maximum accessibility can have an open inbound connection. LN operators are also incentivised with the fees from conducting transactions over the Lightning Network. For the best performance, these nodes should run constantly 24/7/365.
+**Lightning Network Wallets** are run as fully validating nodes and for maximum accessibility can have an open inbound connection. LN operators are also incentivised, to run a full node that supports the network, with the fees from conducting transactions over the Lightning Network.
 
 **Voting Service Providers (VSP)** are run as fully validating nodes and for maximum accessibility can have an open inbound connection. VSP operators are also incentivised with the fees for conducting ticket transactions. For the best performance, these nodes should run constantly 24/7/365 and have +4 instances to increase reliability.
 
