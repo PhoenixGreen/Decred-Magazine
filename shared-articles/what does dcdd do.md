@@ -53,7 +53,9 @@ However, imagine if nobody opened up inbound connections through their firewall.
 The point is that somebody has to open up their inbound connection to allow their node to be publicly accessible. The more people that do this will increase the security and decentralization of the network. 
 
 ## Other nodes in the network
-Decred has a multitude of services that run dcrd nodes in one way or another. Some of these options also include incentives for participation, which in turn encourages users to run a top tier fully validating node. What options do we have?
+Decred has a multitude of services that run dcrd nodes in one way or another. Some of these options also include incentives for participation, which in turn encourages users to run a node that fully supports the network. For example, you're incentivised to run a full node so that you don't have to trust a 3rd party. IF you're solo-staking, you're incentivised for your full node to have a high uptime and allow inbound connections to your node.
+
+## Decred Services and dcrd
  
 **Decrediton** can be run either as a fully validating node or in SPV mode. For security reasons, wallets will never have an open inbound connection. Wallets running in fully validating mode allow for maximum personal privacy and security. On the other hand, SPV mode is great for mobile wallets or when a device has limited resources. 
 
