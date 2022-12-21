@@ -56,8 +56,7 @@ The point is that somebody has to open up their inbound connection to allow thei
 Decred has a multitude of services that run dcrd nodes in one way or another. Some of these options also include incentives for participation, which in turn encourages users to run a node that fully supports the network. For example, you're incentivised to run a full node so that you don't have to trust a 3rd party. IF you're solo-staking, you're incentivised for your full node to have a high uptime and allow inbound connections to your node.
 
 ## Decred Services and dcrd
- 
- 
+
 **Decrediton** can be run either as a fully validating node or in SPV mode. Wallets will never have an open inbound connection. The main reason for this is because wallets usually only run for short periods of time, not as a long-running background process. Allowing other dcrd instances to connect to an instance which only runs intermittently is actually bad for the network, because every instance connected is going to have to find a replacement peer once the wallet is disconnected. Its better if they just connect to a long-lived peer in the first place.
 
 Wallets running in fully validating mode allow for maximum personal privacy and security. On the other hand, SPV mode is great for mobile wallets or when a device has limited resources. 
