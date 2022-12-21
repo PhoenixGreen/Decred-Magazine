@@ -46,7 +46,7 @@ The Full node that supports the network the best is the High-uptime with inbound
 ## Example:
 When you run dcrd for the first time, it needs to figure out where to look for the Blockchain so it can start downloading blocks. dcrd has a hardcoded list of seeders that it queries for IPs of known good nodes. It connects to those nodes and starts downloading blocks.
 
-But then with each connection it makes, the nodes talk and share their connections, like saying, "hey here are all the IP addresses I know of who run dcrd." And so, your node will start building its own list of dcrd peers to check and ask, "hey, do any of you have any new blocks?" And it can do that without accepting new inbound connections. That's how it works for people who don't want to open up their inbound connection.
+With each connection a node makes, it shares its own connections, like saying "here are all the IP addresses I know of who run dcrd." Each node builds its own list of peers to check and ask, "hey, do any of you have any new blocks?" Full nodes can do this without accepting inbound connections. They still need to maintain a list of peers to query for each outbound connection.
 
 But if nobody opened up their inbound connection through their firewall, then all these dcrd nodes would be reaching out to the IP addresses in their peers list and asking "hey, can I talk to you? Do you have new blocks?" And the firewall would just block all the traffic and no peers would be able to talk to each other.
 
