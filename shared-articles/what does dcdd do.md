@@ -103,7 +103,7 @@ From a personal perspective, I’m secure! The next step for me is to add securi
 * 2 GB memory (RAM)
 * 150 MB/day download, 1.5 GB/day upload
 * Plus one-time initial download of the entire blockchain
-* Windows, macOS Linux, OpenBSD and FreeBSD are also supported
+* Windows, macOS, Linux, OpenBSD and FreeBSD are also supported
 * Preferably high uptime with an open inbound connection
 
 ## References
