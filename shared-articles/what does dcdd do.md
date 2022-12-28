@@ -27,13 +27,17 @@ In terms of benefits, since dcrd fully validates every block and transaction, it
 As Decred builds out its infrastructure, it becomes apparent that the underlying security is a high priority. Each time a new service is added, it increases the opportunity for node participation. This is done on multiple levels, and it’s important to note that not every node is equal. There are two factors to consider when determining the usefulness of a node:
 
 **Uptime**
+
 * High-uptime (running 24/7/365, or close to it)
 * Low-uptime (running intermittently)
+
 **With inbound connections**
+
 * No (default)
 * Yes (requires the user to open up a port in their firewall)
 
-**Dcrd configuration options include**
+**dcrd configuration options include**
+
 * High-uptime with inbound connections
 * High-uptime without inbound connections
 * Low-uptime with inbound connections
