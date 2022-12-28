@@ -87,7 +87,7 @@ Wallets running in fully validating mode allow for maximum personal privacy and 
 
 **Lightning Network** nodes are run as fully validating and for maximum accessibility can have an open inbound connection. LN operators are also incentivised, to run a full node that supports the network, with the fees from conducting transactions over the Lightning Network.
 
-**Voting Service Providers (VSP)** are run as fully validating nodes and for maximum accessibility can have an open inbound connection. VSP operators are also incentivised with the fees for conducting ticket transactions. For the best performance, these nodes should run constantly 24/7/365 and have +4 instances to increase reliability.
+**Voting Service Providers (VSP)** A VSP server needs a reliable RPC connection to a dcrd node. As not to depend on external services it's convenient to run a full node dcrd besides a VSP server and for maximum accessibility it can have an open inbound connection. As an incentive, VSP users pays a fee (normally when the ticket is purchased) and in return the VSP will vote with the ticket when that ticket is called by the network for voting (4 weeks later on average). This allows the VSP user to not run their solo voting wallet 24/7 and go offline as soon as the fee is paid to the VSP.
 
 **DCRDEX Operators** need access to trusted full nodes for each of the assets supported. While operation via a surrogate blockchain data service such as a block explorer is potentially feasible, as it is with all Decred services. It would entail significant security risks and threat of funds being stolen.  
 
