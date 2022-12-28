@@ -65,8 +65,6 @@ What's the difference between inbound and outbound connections? If your node ini
 
 Without firewall changes, dcrd will only ever have 8 connections maximum. By allowing dcrd to have inbound connections through their firewall, solo-stakers get to be connected to more peers (up to 125 more). This means they can receive messages propagating through the network faster, and they're also less vulnerable to things like eclipse or sybil attacks. Getting messages faster is important, especially if you want to get your vote included in the latest block.
 
-**Simple Payment Verification (SPV)** is not a node, but a wallet function. It allows the use of a Decred wallet without having to download the entire Decred blockchain. A wallet operating in SPV mode only needs to download full blocks containing transactions relevant to it and block headers. This reduces the wallet’s hardware requirements and greatly reduces the initial load time for new wallets. When an SPV wallet initialises, it will connect to the Decred network using dcrd peer connections.
-
 ## Example:
 When you run dcrd for the first time, it needs to figure out where to look for the blockchain so it can start downloading blocks. dcrd has a hardcoded list of seeders that it queries for IPs of known good nodes. It connects to those nodes and starts downloading blocks.
 
