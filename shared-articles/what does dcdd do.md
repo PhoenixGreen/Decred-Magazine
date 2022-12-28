@@ -7,7 +7,7 @@ To fully participate in the network, a computer needs to carry the ledger in its
 
 There's strength in numbers. It's possible that a single, malicious, participant could invent a new ledger that makes them a multi-billionaire. However, if the majority of everyone else on the network is following the same consensus rules, it would be impossible for that malicious participant to give their malicious ledger to everyone else. Everyone else would just reject it, saying: "No, this doesn't follow the rules."
 
-Therefore, since the network participants are each following the same set of rules, and everyone is sharing the same ledger between each other, it's impossible to go back and retroactively alter the ledger. You can only add new information to the ledger. That's what makes old blocks immutable.
+Therefore, since the network participants are each following the same set of rules, and everyone is sharing the same ledger between each other, it's practically impossible to go back and retroactively alter the ledger. You can only add new information to the ledger. That's what makes old blocks immutable.
 
 The software that makes this all possible on the Decred blockchain is dcrd. dcrd is written in Go (golang), and implements all the consensus rules and core blockchain ledger functionality. It is important to note that dcrd does NOT include wallet functionality, and was designed that way for security reasons. You can consider dcrd to be your personal Decred blockchain server, which would connect you to the rest of the Decred network.
 
