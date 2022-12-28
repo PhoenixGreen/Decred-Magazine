@@ -23,7 +23,7 @@ dcrd is the backbone of Decred's peer-to-peer network. dcrd acts as a 'full node
 
 In terms of benefits, since dcrd fully validates every block and transaction, it provides the highest security and privacy possible when used with a wallet that’s also in full validation mode. This is ideal for individuals, businesses, and services that need the most reliable and accurate data about transactions.
 
-## Full Node Distinctions
+## Full node distinctions
 As Decred builds out its infrastructure, it becomes apparent that the underlying security is a high priority. Each time a new service is added, it increases the opportunity for node participation. This is done on multiple levels, and it’s important to note that not every node is equal. There are two factors to consider when determining the usefulness of a node:
 
 **Uptime**
