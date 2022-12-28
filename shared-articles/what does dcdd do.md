@@ -77,9 +77,9 @@ However, imagine if nobody opened up inbound connections through their firewall.
 The point is that somebody has to open up their inbound connection to allow their node to be publicly accessible. The more people that do this will increase the security and decentralisation of the network. 
 
 ## Other nodes in the network
-Decred has a multitude of services that run dcrd nodes in one way or another. Some of these options also include incentives for participation, which in turn encourages users to run a node that fully supports the network. For example, you're incentivised to run a full node so that you don't have to trust a 3rd party. IF you're solo-staking, you're incentivised for your full node to have a high uptime and allow inbound connections to your node.
+Decred has a multitude of services that run dcrd nodes in one way or another. Some of these options also include incentives for participation, which in turn encourages users to run a node that fully supports the network. For example, you're incentivised to run a full node so that you don't have to trust a 3rd party. IF you're staking, you're incentivized to both have high-uptime (so you won't miss a vote) AND allow inbound connections (so you have more peers, meaning you receive messages propagating through the network earlier, meaning you won't miss a vote).
 
-## Decred Services and dcrd
+## Decred services and dcrd
 
 **Decrediton** can be run either as a fully validating node or in SPV mode. Wallets will never have an open inbound connection. The main reason for this is because wallets usually only run for short periods of time, not as a long-running background process. Allowing other dcrd instances to connect to an instance which only runs intermittently is actually bad for the network, because every instance connected is going to have to find a replacement peer once the wallet is disconnected. Its better if they just connect to a long-lived peer in the first place.
 
