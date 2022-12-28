@@ -59,7 +59,7 @@ Solo-staking requires people to be actively watching the chain and validating ne
 
 **Connections**
 
-dcrd is hardcoded to only ever create 8 outbound connections. Conversely, dcrd allows 125 inbound connections by default, but the server operator needs to open up a hole in their firewall for any of those inbound connections to be used.
+dcrd is hardcoded to only ever create 8 outbound connections - https://docs.decred.org/faq/configuration/#5-why-am-i-connecting-to-only-8-outbound-peers -- . Conversely, dcrd allows 125 inbound connections by default, but the server operator needs to open up a hole in their firewall for any of those inbound connections to be used.
 
 What's the difference between inbound and outbound connections? If your node initiated the connection to an external peer, it's outbound. Otherwise, it's inbound. Outbound/inbound connections don't share different types of data. Nodes will send and receive data from both types of connections exactly the same way.
 
