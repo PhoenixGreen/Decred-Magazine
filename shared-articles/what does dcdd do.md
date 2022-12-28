@@ -68,7 +68,7 @@ Without firewall changes, dcrd will only ever have 8 connections maximum. By all
 **Simple Payment Verification (SPV)** is not a node, but a wallet function. It allows the use of a Decred wallet without having to download the entire Decred blockchain. A wallet operating in SPV mode only needs to download full blocks containing transactions relevant to it and block headers. This reduces the wallet’s hardware requirements and greatly reduces the initial load time for new wallets. When an SPV wallet initialises, it will connect to the Decred network using dcrd peer connections.
 
 ## Example:
-When you run dcrd for the first time, it needs to figure out where to look for the Blockchain so it can start downloading blocks. dcrd has a hardcoded list of seeders that it queries for IPs of known good nodes. It connects to those nodes and starts downloading blocks.
+When you run dcrd for the first time, it needs to figure out where to look for the blockchain so it can start downloading blocks. dcrd has a hardcoded list of seeders that it queries for IPs of known good nodes. It connects to those nodes and starts downloading blocks.
 
 With each connection a node makes, it shares its own connections, like saying "here are all the IP addresses I know of who run dcrd." Each node builds its own list of peers to check and ask, "hey, do any of you have any new blocks?" Full nodes can do this without accepting inbound connections. They still need to maintain a list of peers to query for each outbound connection.
 
