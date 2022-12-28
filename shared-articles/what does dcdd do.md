@@ -9,7 +9,7 @@ There's strength in numbers. It's possible that a single, malicious, participant
 
 Therefore, since the network participants are each following the same set of rules, and everyone is sharing the same ledger between each other, it's practically impossible to go back and retroactively alter the ledger. You can only add new information to the ledger. That's what makes old blocks immutable.
 
-The software that makes this all possible on the Decred blockchain is dcrd. dcrd is written in Go (golang), and implements all the consensus rules and core blockchain ledger functionality. It is important to note that dcrd does NOT include wallet functionality, and was designed that way for security reasons. You can consider dcrd to be your personal Decred blockchain server, which would connect you to the rest of the Decred network.
+The software that makes this all possible on the Decred blockchain is dcrd. dcrd is written in Go (golang), and implements all the consensus rules and core blockchain ledger functionality. It is important to note that dcrd does NOT include wallet functionality, and was designed that way for multiple reasons including security. You can consider dcrd to be your personal Decred blockchain server, which would connect you to the rest of the Decred network.
 
 ## dcrd responsibilities:
 dcrd is the backbone of Decred's peer-to-peer network. dcrd acts as a 'full node', short for 'fully-validating node', which means that it fully validates all transactions and blocks, as opposed to trusting a 3rd party or someone else's ledger. In summary, a dcrd full node:
@@ -86,5 +86,9 @@ From a personal perspective, I’m secure! The next step for me is to add securi
 
 ## References
 * Decred dcrd – https://github.com/decred/dcrd
+
+* btcd: Not your mom’s Bitcoin daemon -> "Separate Chain and Wallet" section - https://blog.conformal.com/btcd-not-your-moms-bitcoin-daemon/
+* btcwallet and btcgui: Wallet handling for btcd -> "The Wallet Daemon: btcwallet" section - https://blog.conformal.com/btcwallet-and-btcgui-wallet-handling-for-btcd/
+
 * Special thanks to @zippycorners for contributing to this article and explaining how publicly accessible nodes work
 * Special thanks to @richardred @bochinchero @jholdstock for helping out with the research for this piece
