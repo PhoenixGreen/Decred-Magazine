@@ -115,4 +115,4 @@ From a personal perspective, I’m secure! The next step for me is to add securi
 * btcwallet and btcgui: Wallet handling for btcd -> "The Wallet Daemon: btcwallet" section - https://blog.conformal.com/btcwallet-and-btcgui-wallet-handling-for-btcd/
 
 * Special thanks to @zippycorners for contributing to this article and explaining how publicly accessible nodes work
-* Special thanks to @richardred @bochinchero @jholdstock for helping out with the research for this piece
+* Special thanks to @bee, @richardred, @bochinchero, @jholdstock for helping out with the research, fact and error checking for this piece
