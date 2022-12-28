@@ -43,7 +43,7 @@ As Decred builds out its infrastructure, it becomes apparent that the underlying
 * Low-uptime with inbound connections
 * Low-uptime without inbound connections
 
-The Full node that supports the network the best is the High-uptime with inbound connections.
+The full node that supports the network the best has high-uptime and allows inbound connections.
 
 **Simple Payment Verification (SPV)** is not a node, but a wallet function. It allows the use of a Decred wallet without having to download the entire Decred blockchain. A wallet operating in SPV mode only needs to download full blocks containing transactions relevant to it and block headers. This reduces the wallet’s hardware requirements and greatly reduces the initial load time for new wallets. When an SPV wallet initialises, it will connect to the Decred network using dcrd peer connections.
 
