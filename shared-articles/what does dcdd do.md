@@ -74,7 +74,7 @@ With each connection a node makes, it shares its own connections, like saying "h
 
 However, imagine if nobody opened up inbound connections through their firewall. Every dcrd node would just continually reach out to the IP addresses in their peers list, asking "Hey, can I talk to you? Do you have new blocks?" And each firewall would just block all traffic. No nodes would be able to talk to each other.
 
-The point is that somebody has to open up their inbound connection to allow their node to be publicly accessible. The more people that do this will increase the security and decentralization of the network. 
+The point is that somebody has to open up their inbound connection to allow their node to be publicly accessible. The more people that do this will increase the security and decentralisation of the network. 
 
 ## Other nodes in the network
 Decred has a multitude of services that run dcrd nodes in one way or another. Some of these options also include incentives for participation, which in turn encourages users to run a node that fully supports the network. For example, you're incentivised to run a full node so that you don't have to trust a 3rd party. IF you're solo-staking, you're incentivised for your full node to have a high uptime and allow inbound connections to your node.
