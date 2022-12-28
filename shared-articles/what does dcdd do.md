@@ -43,7 +43,27 @@ As Decred builds out its infrastructure, it becomes apparent that the underlying
 * Low-uptime with inbound connections
 * Low-uptime without inbound connections
 
-The full node that supports the network the best has high-uptime and allows inbound connections.
+The full node that supports the network the best has high-uptime and allows inbound connections. Let's flesh out WHY people would be incentivized to allow inbound connections?
+
+**Incentives**
+
+What would incentivize someone to run a dcrd server with high-uptime and inbound connections? There's maintenance hassle, hardware and electricity costs, and some inherent security risk by exposing a port in their network firewall so that dcrd can have inbound connections from the public internet.
+
+This is one of the many differences between Bitcoin and Decred. In the Bitcoin network, there's no real incentive for people to run their own full nodes, other than to not have to trust a 3rd party. People who run Bitcoin nodes are doing it for fun or their own goodwill. However, with Decred, people are incentivized to run full nodes so that they can solo-stake and earn staking rewards.
+
+Note: since many people aren't technical enough to run their own dcrd servers, but still want to participate in staking, Decred created Voting Service Providers (VSPs). VSPs allow staking, but don't require people to run a server or mess with their firewalls. These will be discussed later.
+
+**Uptime**
+
+Solo-staking requires people to be actively watching the chain and validating new blocks. Therefore, high-uptime is important if you don't want to miss a vote!
+
+**Connections**
+
+dcrd is hardcoded to only ever create 8 outbound connections. Conversely, dcrd allows 125 inbound connections by default, but the server operator needs to open up a hole in their firewall for any of those inbound connections to be used.
+
+What's the difference between inbound and outbound connections? If your node initiated the connection to an external peer, it's outbound. Otherwise, it's inbound. Outbound/inbound connections don't share different types of data. Nodes will send and receive data from both types of connections exactly the same way.
+
+Without firewall changes, dcrd will only ever have 8 connections maximum. By allowing dcrd to have inbound connections through their firewall, solo-stakers get to be connected to more peers (up to 125 more). This means they can receive messages propagating through the network faster, and they're also less vulnerable to things like eclipse or sybil attacks. Getting messages faster is important, especially if you want to get your vote included in the latest block.
 
 **Simple Payment Verification (SPV)** is not a node, but a wallet function. It allows the use of a Decred wallet without having to download the entire Decred blockchain. A wallet operating in SPV mode only needs to download full blocks containing transactions relevant to it and block headers. This reduces the wallet’s hardware requirements and greatly reduces the initial load time for new wallets. When an SPV wallet initialises, it will connect to the Decred network using dcrd peer connections.
 
