@@ -33,7 +33,11 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed description
-* 
+* Wbsite backup - DATE - ???
+* Communications - ??
+* Creator onboarding - ??
+* Website edits and links - ??
+* Created new podcasts on Decred Magazine, including for, Twitter Space and Decred News - https://anchor.fm/decred-magazine
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
@@ -71,7 +75,12 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
+# C12 - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* 
 
-
+# Hatt Hawkins - SubContractor Technical Editor:
+Reporting structure: Content date - Content Title - Link - Billing Type (Technical Editor / writer - Medium or Long)
+* 
 
 
