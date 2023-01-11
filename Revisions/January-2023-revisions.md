@@ -29,6 +29,9 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Decred Journal – November 2022 - 2 Week Lite - Jan 11 - Jan 25 2023
+* A learning from 2022 - 2 week blast - Jan 11 - Jan 25 2023
+* Decred 2022 End of Year Summary - 2 week blast - Jan 11 - Jan 25 2023
 * 
 
 ## Site Admin
