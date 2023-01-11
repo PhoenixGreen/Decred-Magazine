@@ -32,7 +32,8 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred Journal – November 2022 - 2 Week Lite - Jan 11 - Jan 25 2023
 * A learning from 2022 - 2 week blast - Jan 11 - Jan 25 2023
 * Decred 2022 End of Year Summary - 2 week blast - Jan 11 - Jan 25 2023
-* 
+* Decred's Technology Stack Overview - 12 Month Blast - Jan 18 2023 - Jan 11 2024
+* Bison Relay: The Sovereign Internet - 12 month evergreen - Jan 11 2023 - Jan 11 2024
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed description
