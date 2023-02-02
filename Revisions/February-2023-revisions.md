@@ -29,6 +29,9 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Decred Journal – December 2022 - 2 week blast - Feb 2 - Feb 16 2023
+* Personal Private Server Umbrel - 12 month evergreen - Feb 2 2023 - Feb 2 2024
+* Brazilian congress approves regulation for the Crypto market - 6 month evergreen - Feb 2 - Aug 1 2023
 * 
 
 ## Site Admin
