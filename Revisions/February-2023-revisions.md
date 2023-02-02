@@ -36,6 +36,8 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * How can DCRDEX access fiat on and off ramps? - 12 month evergreen - Feb 4 2023 - Feb 4 2024
 * The P2P World Wide Web - 6 month evergreen - Feb 14 - Aug 13 2023
 * Decred and the Atomic Swap Revolution - 12 month evergreen - Feb 2 2023 - Feb 20 2024
+* Imagining the Future of Bison Relay - 12 month evergreen - Feb 2 2023 - Feb 3 2024
+* 2023: Decred A Crypto Odyssey - 12 month evergreen - Feb 2 2023 - Feb 3 2024
 * 
 
 ## Site Admin
