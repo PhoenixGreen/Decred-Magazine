@@ -32,6 +32,9 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred Journal – December 2022 - 2 week blast - Feb 2 - Feb 16 2023
 * Personal Private Server Umbrel - 12 month evergreen - Feb 2 2023 - Feb 2 2024
 * Brazilian congress approves regulation for the Crypto market - 6 month evergreen - Feb 2 - Aug 1 2023
+* Trading Scenarios - DCRDEX Fundamentals - 12 month evergreen - Feb 2 2023 - Feb 2 2024
+* How can DCRDEX access fiat on and off ramps? - 12 month evergreen - Feb 4 2023 - Feb 4 2024
+* The P2P World Wide Web - 6 month evergreen - Feb 14 - Aug 13 2023
 * 
 
 ## Site Admin
