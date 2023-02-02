@@ -35,6 +35,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Trading Scenarios - DCRDEX Fundamentals - 12 month evergreen - Feb 2 2023 - Feb 2 2024
 * How can DCRDEX access fiat on and off ramps? - 12 month evergreen - Feb 4 2023 - Feb 4 2024
 * The P2P World Wide Web - 6 month evergreen - Feb 14 - Aug 13 2023
+* Decred and the Atomic Swap Revolution - 12 month evergreen - Feb 2 2023 - Feb 20 2024
 * 
 
 ## Site Admin
