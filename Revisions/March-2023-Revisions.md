@@ -1,4 +1,4 @@
-# ?MONTH? 2023 Revisions
+# March 2023 Revisions
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Decred Magazine Engagement Stats for this month:
