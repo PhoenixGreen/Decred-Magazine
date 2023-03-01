@@ -12,9 +12,11 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Re-tweets - 00
 * Social media followers across all platforms and accounts - 000
 
-## Decred Magazine Instagram Stats (https://www.instagram.com/decredmagazine/) by santanna_jp:
-* Followers - 00
-* Posts - 0
+## Decred Magazine Instagram and TikTok Stats (https://www.instagram.com/decredmagazine/) by santanna_jp:
+* Instrgram Followers - 00
+* Instagram Posts - 0
+* TikTok Followers - 00
+* TikTok Posts - 0
 
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 
