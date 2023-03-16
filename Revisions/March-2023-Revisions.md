@@ -31,6 +31,11 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Is this the start of a new banking crisis? - 2 week blast - Mar 16 - Mar 30 2023
+* DeFi Needs To Be Decentralized Beyond Name - 6 month evergreen - Mar 16 - Sep 13 2023
+* Decred Strikes Again - 12 month evergreen - Mar 16 2023 - Mar 15 2024
+* Built-in Payment System - Bison Relay - 6 month evergreen - Mar 16 - Sep 13 2023
+* Decred vs Monero: Clash of privacy coins - 12 month evergreen - Mar 16 2023 - Mar 16 2024
 * 
 
 ## Site Admin
