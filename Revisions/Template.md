@@ -28,7 +28,8 @@ This section is for reference only, to identify the workload of the editor role 
 * Communications - approx 2hrs per week
 * Importing a post – approx 30mins - 1hr per post
 * Proofreading, edits and approval for new posts – approx 1hr per post
-* Feature image, excerpts for imported content – approx 30mins - 1hr per post 
+* Feature image, excerpts for imported content – approx 30mins - 1hr per post
+* Create podcasts, descriptions, audio edits from video, 30mins - 1hr per podcast (https://anchor.fm/decred-magazine)
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
@@ -40,7 +41,6 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 * Communications - ??
 * Creator onboarding - ??
 * Website edits and links - ??
-* Created new podcasts on Decred Magazine, including for, Twitter Space and Decred News - https://anchor.fm/decred-magazine
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
