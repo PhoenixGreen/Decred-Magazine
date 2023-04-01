@@ -17,6 +17,7 @@ Work completed during this period, including, New posts, edits, post imports, me
 * Instagram Posts - 0
 * TikTok Followers - 00
 * TikTok Posts - 0
+* TikTik Likes - 000
 
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 
