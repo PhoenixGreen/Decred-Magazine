@@ -50,6 +50,7 @@ Reporting structure: Content date - Content type - Title - Link
 * Mar 23, 2023 - Import - Decred Journal – February 2023 - https://www.decredmagazine.com/decred-journal-february-2023/
 * Mar 24, 2023 - Import - DCRDEX 0.6 is coming - https://www.decredmagazine.com/dcrdex-0-6-is-coming/
 * Mar 30, 2023 - Import - Timestamply Tutorial - https://www.decredmagazine.com/timestamply-tutorial/
+* Mar 30, 2023 - Import - POLITEIA DIGEST March 17 - March 29 2023 - https://www.decredmagazine.com/politeia-digest-march-17-march-29-2023/
 * 
 
 # Phoenix Green - Official Contributor Work:
