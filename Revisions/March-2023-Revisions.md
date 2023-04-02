@@ -2,9 +2,9 @@
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Decred Magazine Engagement Stats for this month:
-* Total number of articles on Decred Magazine -  427
+* Total number of articles on Decred Magazine -  428
 * Newsletter subscribers - 93
-* New Decred Magazine Posts and Newsletters sent - 18
+* New Decred Magazine Posts and Newsletters sent - 19
 * Active Social media campaigns - 35
 * Completed Social media campaigns - 35
 * Social media posts - 127
