@@ -33,6 +33,16 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Decred Recap - Mining Change, New Subsidy Split - 2 week blast - Apr 7 - Apr 21 2023
+* Middlemen need to be eliminated from the cryptocurrency space - 6 month evergreen - Apr 7 - Oct 4 2023
+* Installing Decrediton in Fully Validating Mode - 12 month evergreen - Apr 9 2023 - Apr 8 2024
+* Decred Journal – February 2023 - 2 week blast - Apr 7 - Apr 21 2023
+* DCRDEX 0.6 is coming - 2 month blast - Apr 10 - Jun 9 2023
+* U$3.8 billion worth of crypto stolen! What can be done? - 6 month evergreen - Apr 20 - Oct 17 2023
+* Fair Game or Rigged System- On Proof-of-Work and ASIC - 12 month evergreen - Apr 22 2023 - Apr 21 2024
+* Living on Crypto- Rediscovering the Original Purpose of Crypto  - 12 month evergreen - Apr 24 2023 - Apr 23 2024
+* Decred vs Firo: privacy and governance! - 12 month evergreen - Apr 24 2023 - Apr 23 2024
+* Binance crossroad ...is it time to worry? - 2 week blast - Apr 24 - May 8 2023
 * 
 
 ## Site Admin
