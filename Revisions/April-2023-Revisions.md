@@ -43,6 +43,9 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Living on Crypto- Rediscovering the Original Purpose of Crypto  - 12 month evergreen - Apr 24 2023 - Apr 23 2024
 * Decred vs Firo: privacy and governance! - 12 month evergreen - Apr 24 2023 - Apr 23 2024
 * Binance crossroad ...is it time to worry? - 2 week blast - Apr 24 - May 8 2023
+* Decred a crypto unicorn - 12 Month Blast - Apr 28 2023 - Apr 20 2024
+* Decrediton SPV mode & seed restore - 12 month evergreen - Apr 30 2023 - Apr 29 2024
+* Internet Privacy and Why it is Important - 6 month evergreen - Apr 10 - Oct 7 2023
 * 
 
 ## Site Admin
