@@ -46,6 +46,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred a crypto unicorn - 12 Month Blast - Apr 28 2023 - Apr 20 2024
 * Decrediton SPV mode & seed restore - 12 month evergreen - Apr 30 2023 - Apr 29 2024
 * Internet Privacy and Why it is Important - 6 month evergreen - Apr 10 - Oct 7 2023
+* Decred - Bricking ASICs and P2P Social Media discussion - 2 month blast - Apr 10 - Jun 9 2023
 * 
 
 ## Site Admin
