@@ -2,22 +2,22 @@
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Decred Magazine Engagement Stats for this month:
-* Total number of articles on Decred Magazine -  000
-* Newsletter subscribers - 00
-* New Decred Magazine Posts and Newsletters sent - 00
-* Active Social media campaigns - 0
-* Completed Social media campaigns - 0
-* Social media posts - 00
-* Likes - 000
-* Re-tweets - 00
-* Social media followers across all platforms and accounts - 000
+* Total number of articles on Decred Magazine -  444
+* Newsletter subscribers - 96
+* New Decred Magazine Posts and Newsletters sent - 16
+* Active Social media campaigns - 46
+* Completed Social media campaigns - 38
+* Social media posts - 212
+* Likes - 1230
+* Re-tweets - 260
+* Social media followers across all platforms and accounts - 1300
 
 ## Decred Magazine Instagram (https://www.instagram.com/decredmagazine/) and TikTok https://www.tiktok.com/@decredmagazine Stats by santanna_jp:
-* Instrgram Followers - 00
-* Instagram Posts - 0
-* TikTok Followers - 00
-* TikTok Posts - 0
-* TikTik Likes - 000
+* Instrgram Followers - 35
+* Instagram Posts - 10
+* TikTok Followers - 13
+* TikTok Posts - 8
+* TikTik Likes - 124
 
 # Phoenix Green - Editor Work (Content - Imports, Edits, Curated, Communications and site improvements):
 
@@ -51,53 +51,46 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed description
-* Wbsite backup - DATE - ???
-* Communications - ??
-* Creator onboarding - ??
-* Website edits and links - ??
+* Creator onboarding - This month Jay @@h3la1 wrote their first article for the magazine. Jay wants to focus on promotional posts that highlight Decred's tech to the wider crypto audience.
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
+* Apr 2, 2023 - Import - Decred Recap - Mining Change, New Subsidy Split, Cointelegraph Proposal, tons of Dev Updates! - https://www.decredmagazine.com/decred-recap-mining-change-new-subsidy-split-cointelegraph-proposal-tons-of-dev-updates/
+* Apr 5, 2023 - Import - Decred - Bricking ASICs and P2P Social Media discussion feat. Dave Collins & Jake Yocom-Piatt - https://www.decredmagazine.com/decred-bricking-asics-and-p2p-social-media-discussion-feat-dave-collins-jake-yocom-piatt/
+* Apr 12, 2023 - Import - Decrediton Staking - Buying tickets the easy way - https://www.decredmagazine.com/decrediton-staking-buying-tickets-the-easy-way/
+* Apr 17, 2023 - Import - Oprah Tipping Bot - BisonRelay - https://www.decredmagazine.com/oprah-tipping-bot-bisonrelay/
+* Apr 22, 2023 - Import - Decred Journal – March 2023 - https://www.decredmagazine.com/decred-journal-march-2023/
+* Apr 25, 2023 - Import - Setting up DCRDEX 0.6 in Decrediton - https://www.decredmagazine.com/setting-up-dcrdex-0-6-in-decrediton/
+* Apr 26, 2023 - Import - Setting up DCRDEX Native Wallets (BTC, BCH & LTC) - https://www.decredmagazine.com/setting-up-dcrdex-native-wallets-btc-bch-ltc/
+* Apr 30, 2023 - Import - POLITEIA DIGEST March 30 - April 29 2023 - https://www.decredmagazine.com/politeia-digest-march-30-april-29-2023/
 * 
 
 # Phoenix Green - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# Applesaucesome - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Apr 16, 2023 - Monde PR report for March 2023 - https://www.decredmagazine.com/monde-pr-report-for-march-2023/ - Medium
 * 
 
 # OfficialCryptos - Official Contributor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# Tivra - Official Contributor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Apr 14, 2023 - Decred Mining Evolves - https://www.decredmagazine.com/decred-mining-evolves/ - Medium
+* Apr 20, 2023 - Top 5 reasons Decred's price will explode. - Featured Image
 * 
 
 # João Paulo Sant’Anna - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# RONNIE AMATO - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Apr 11, 2023 - Decred offers solutions to society problems? - https://www.decredmagazine.com/decred-offers-solutions-to-society-problems/ - Medium
+* Apr 19, 2023 - Decred vs Dash: Governance for all! - https://www.decredmagazine.com/decred-vs-dash/ - Medium / Long
+* Apr 24, 2023 - Digital agriculture, meet the innovative Agrotoken - https://www.decredmagazine.com/digital-agriculture-meet-the-innovative/ - Medium
+* Apr 30, 2023 - Inter-community talk! Today with Jose Trejo from the Digibyte community - https://www.decredmagazine.com/inter-community-talk-today-with-jose-trejo-from-the-digibyte-community/ - Medium / Long
 * 
 
 # Blockchain Jew - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Apr 22, 2023 - The Paradox of Choice: Deciding Between Turing Complete and Non-Turing Complete Blockchains - https://www.decredmagazine.com/the-paradox-of-choice-deciding-between-turing-complete-and-non-turing-complete-blockchains/ - Medium / Long
 * 
 
-# Hassan Maishera - SubContractor Work:
+# Jay - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
+* Apr 20, 2023 - Top 5 reasons Decred's price will explode. - https://www.decredmagazine.com/top-5-reasons-decreds-price-will-explode/ - Medium
 * 
-
-# C12 - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
-# Hatt Hawkins - SubContractor Technical Editor:
-Reporting structure: Content date - Content Title - Link - Billing Type (Technical Editor / writer - Medium or Long)
-* 
-
 
