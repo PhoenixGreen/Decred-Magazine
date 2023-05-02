@@ -52,6 +52,8 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed description
 * Creator onboarding - This month Jay @@h3la1 wrote their first article for the magazine. Jay wants to focus on promotional posts that highlight Decred's tech to the wider crypto audience.
+* Decred Magazine's web host yearly renewal - Ghost Pro Starter $108 per year - April 2023 - April 2024 - https://ghost.org/pricing/ . This package is suitable for now but can be upgraded at any time to include more resources, features and editors as and when needed.
+* 
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
