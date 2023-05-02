@@ -66,10 +66,6 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
-# RONNIE AMATO - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
 # Blockchain Jew - SubContractor Work:
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
@@ -78,12 +74,12 @@ Reporting structure: Content date - Content Title - Link - Billing Type (Medium 
 Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
-# C12 - SubContractor Work:
-Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
-* 
-
 # Hatt Hawkins - SubContractor Technical Editor:
 Reporting structure: Content date - Content Title - Link - Billing Type (Technical Editor / writer - Medium or Long)
+* 
+
+# Jay - SubContractor Work:
+Reporting structure: Content date - Content Title - Link - Billing Type (Medium or Long)
 * 
 
 
