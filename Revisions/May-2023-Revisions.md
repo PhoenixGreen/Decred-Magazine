@@ -37,10 +37,9 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 
 ## Site Admin
 Reporting Structure: Completion Date - Work undertaken - Link or detailed description
-* Wbsite backup - DATE - ???
-* Communications - ??
-* Creator onboarding - ??
-* Website edits and links - ??
+* Wbsite backup - 5/5/2023 - Full back up completed
+* Communications - Started thinking about and discussing the next Decred Magazine proposal for Mid-June 2023. One idea that is gaining traction, is to move to a multi-chain publication. Possibly funded by multiple DAO’s. This does raise some issues with logistics and problematic articles, but the massive upside is a bigger audience.
+* 
 
 ## Import content and New Posts
 Reporting structure: Content date - Content type - Title - Link
