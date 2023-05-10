@@ -40,6 +40,11 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Oprah Tipping Bot - BisonRelay - 12 month evergreen - May 14 2023 - May 13 2024
 * 2008 and 2023...What can we learn? - 2 week lite - May 15 - May 29 2023
 * Timestamply Tutorial - 12 month evergreen - May 18 2023 - May 17 2024
+* Why is Decred not EVM compatible? - 12 month evergreen - May 18 2023 - May 17 2024
+* Decred offers solutions to society problems? - 12 month evergreen - May 19 2023 - May 18 2024
+* Decred vs Dash: Governance for all! - 12 month evergreen - May 20 2023 - May 19 2024
+* Decred Journal – March 2023 - 2 week lite - May 10 - May 27 2023
+* Decrediton Staking - Buying tickets the easy way - 12 month evergreen - May 28 2023 - May 27 2024
 * 
 
 ## Site Admin
