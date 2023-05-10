@@ -45,6 +45,8 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Decred vs Dash: Governance for all! - 12 month evergreen - May 20 2023 - May 19 2024
 * Decred Journal – March 2023 - 2 week lite - May 10 - May 27 2023
 * Decrediton Staking - Buying tickets the easy way - 12 month evergreen - May 28 2023 - May 27 2024
+* Decred Mining Evolves - 6 month evergreen - May 28 - Nov 25 2023
+* Setting up DCRDEX 0.6 in Decrediton - 12 month evergreen - Jun 2 2023 - Jun 1 2024
 * 
 
 ## Site Admin
