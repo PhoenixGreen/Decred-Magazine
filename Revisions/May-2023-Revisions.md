@@ -1,4 +1,4 @@
-# ?MONTH? 2023 Revisions
+# May 2023 Revisions
 Work completed during this period, including, New posts, edits, post imports, media imports, social media engagement and newsletter states.
 
 # Decred Magazine Engagement Stats for this month:
@@ -33,6 +33,9 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* Decred vs Digibyte: Speed race! - 6 month evergreen - May 10 - Nov 6 2023
+* The Future will not be centralised - 12 month evergreen - May 12 2023 - May 11 2024
+* Decrediton Peer to Peer Payments - Send & Receive - 12 month evergreen - May 13 2023 - May 12 2024
 * 
 
 ## Site Admin
