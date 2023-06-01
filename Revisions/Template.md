@@ -42,8 +42,8 @@ Reporting Structure: Completion Date - Work undertaken - Link or detailed descri
 * Creator onboarding - ??
 * Website edits and links - ??
 
-## Import content and New Posts
-Reporting structure: Content date - Content type - Title - Link
+## Import content
+Reporting structure: Content date - Title - Link
 * 
 
 # Phoenix Green - Official Contributor Work:
