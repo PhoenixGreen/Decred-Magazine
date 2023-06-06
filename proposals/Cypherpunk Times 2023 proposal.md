@@ -1,8 +1,8 @@
 
-Domain: Marketing
-Amount: $44,000
-Start Date: 02 July 2023
-End Date: 1 July 2024
+* Domain: Marketing
+* Amount: $44,000
+* Start Date: 02 July 2023
+* End Date: 1 July 2024
 
 ## What
 This proposal seeks funding to continue the work started last year with the DecredMagazine.com content hub. You’ll also be voting to rebrand DecredMagazine.com to CypherpunkTimes.com and move the project to a multi-chain publication.
