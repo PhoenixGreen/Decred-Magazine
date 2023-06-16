@@ -33,6 +33,17 @@ This section is for reference only, to identify the workload of the editor role 
 
 ## Social Media Campaigns 
 Reporting Structure: Post Title – Campaign Type – Start Date – End Date
+* CEXs face a decline in trading volume; time to embrace - 6 months evergreen - Jun 16 - Dec 13 2023
+* OPSEC in Crypto - 6 months evergreen - Jun 18 - Dec 15 2023
+* DCRDEX advance trading options - 12 month evergreen - Jun 20 2023 - Jun 19 2024
+* Decred vs Horizen: Crypto is not enough! - 12 month evergreen - Jun 20 2023 - Jun 19 2024
+* Inter-community talk! Today with Jose Trejo from the Digibyte  - 12 month evergreen - Jun 20 2023 - Jun 19 2024
+* Inter-community talk! Today with Reuben Yap - 12 month evergreen - Jun 21 2023 - Jun 20 2024
+* BRC-20; Here to Stay or Fade? - 2 weeks - Jun 22 - Jul 6 2023
+* Pepecoin: what's the deal with it? - 2 weeks - Jun 26 - Jul 10 2023
+* Brazil will begin tests for its own Digital Currency - 2 weeks - Jun 28 - Jul 12 2023
+* The Paradox of Choice: Deciding Between Turing Complete - 2 weeks - Jun 28 - Jul 12 2023
+* I don't want your likes - 12 month evergreen - Jul 1 2023 - Jun 30 2024
 * 
 
 ## Site Admin
