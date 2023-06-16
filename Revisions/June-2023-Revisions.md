@@ -44,6 +44,7 @@ Reporting Structure: Post Title – Campaign Type – Start Date – End Date
 * Brazil will begin tests for its own Digital Currency - 2 weeks - Jun 28 - Jul 12 2023
 * The Paradox of Choice: Deciding Between Turing Complete - 2 weeks - Jun 28 - Jul 12 2023
 * I don't want your likes - 12 month evergreen - Jul 1 2023 - Jun 30 2024
+* Bison Relay pre-paid invitations - 12 month evergreen - Jul 2 2023 - Jul 1 2024
 * 
 
 ## Site Admin
